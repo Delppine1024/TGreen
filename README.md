@@ -5,7 +5,7 @@ Some crack files working from Typora v1.1, Powered by TyporaCracker.
 
 **The latest** original Typora download link : 
 
-[Typora — macOS release channel](https://typora.io/releases/all)
+[Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
 
 
