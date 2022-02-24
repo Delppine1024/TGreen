@@ -1,4 +1,5 @@
-# Typora_Crack
+# TyporaCrack
+
 Some crack files working from Typora v1.1, Powered by TyporaCracker.
 
 
