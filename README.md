@@ -24,7 +24,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
 
 ## Usage
 
-1. Download the proper version files corresponding to the Typora version from **Github releases** .
+1. Download the proper version files `app_asar_file_v1.x` or ` app_asar_folder_v1.x`  corresponding to the Typora version from **Github releases**.
 1. Extract them from the compressed file.
 2. Copy the file `app.asar` to `{root}/Typora/resources/app.asar` , or git clone [Mas0nShi/typoraCracker: A extract & decryption and pack & encryption tools for typora. (github.com)](https://github.com/Mas0nShi/typoraCracker) and using instruction `python typora.py -u ./dec_app ./outappasar_origin` to get `app.asar` .
 2. Then enjoy it.
