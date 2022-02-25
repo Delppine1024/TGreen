@@ -1,6 +1,6 @@
 # TyporaCrack
 
-Some crack files working from Typora v1.1, Powered by TyporaCracker.
+Some crack files work well on Typora v1.1, Powered by TyporaCracker.
 
 
 
@@ -10,15 +10,17 @@ Some crack files working from Typora v1.1, Powered by TyporaCracker.
 
 
 
+
+
 ## ATTENTION
 
-**NOTE: Although Typora_Crack provide support for crack, we encourage buying license, in order to Support Genuine Software development.**
+**NOTE: Although TyporaCrack provide support for crack, we encourage buying license, in order to Support Genuine Software development.**
 
 
 
 ```
 FOR STUDY AND DISCUSSION ONLY, PLEASE DO NOT ENGAGE IN ANY ILLEGAL ACTS.
-ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
+ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 ```
 
 
@@ -33,6 +35,14 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
 
 
 The tool support the latest Typora v1.1.5 on Windows/Linux
+
+
+
+## Addition
+
+**I HOPE FOR WORLD PEACE AND END OF HUMAN SUFFERING !** 
+
+2022.2.25
 
 
 
