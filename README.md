@@ -46,6 +46,16 @@ The tool support the latest Typora v1.1.5 on Windows/Linux
 
 
 
+## Logs
+
+| Timeline  | Actions                                |
+| --------- | -------------------------------------- |
+| 2022.2.26 | 1.1.5 file size reduced                |
+| 2022.2.25 | 1.1.4 and up cracked, upload to Github |
+| 2022.2.24 | Dev version build                      |
+
+
+
 ## LICENSE
 
 MIT LICENSE
