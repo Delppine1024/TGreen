@@ -56,7 +56,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 
 
-**The tool support the latest Typora v1.1.5 on Windows/Linux. **
+**The tool support the latest Typora v1.1.5 on Windows/Linux.**
 
 
 
