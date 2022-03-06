@@ -50,13 +50,13 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 4. Copy the file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and replace it. 
 
-   In Linux, you can use the command: `sudo cp app.asar /usr/share/typora/resources/`.
+   In Linux, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
 
 2. Then enjoy it.
 
 
 
-The tool support the latest Typora v1.1.5 on Windows/Linux
+**The tool support the latest Typora v1.1.5 on Windows/Linux. **
 
 
 
@@ -72,6 +72,7 @@ The tool support the latest Typora v1.1.5 on Windows/Linux
 
 | Timeline  | Actions                                |
 | --------- | -------------------------------------- |
+| 2022.3.7  | README Detailed                        |
 | 2022.2.26 | 1.1.5 file size reduced                |
 | 2022.2.25 | 1.1.4 and up cracked, upload to Github |
 | 2022.2.24 | Dev version build                      |
@@ -81,3 +82,23 @@ The tool support the latest Typora v1.1.5 on Windows/Linux
 ## LICENSE
 
 MIT LICENSE
+
+
+
+
+
+------
+
+If you like it, you can star/fork/watch this repository. 
+
+**Plus, we always encourage buying license.**
+
+## Who have starred
+
+[![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
+
+
+
+## Who have forked
+
+[![Forkers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/forks/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/network/members)
