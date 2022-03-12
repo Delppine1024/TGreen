@@ -93,12 +93,12 @@ If you like it, you can star/fork/watch this repository.
 
 **Plus, we always encourage buying license.**
 
-## Who have starred
+## Who has starred
 
 [![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
 
 
 
-## Who have forked
+## Who has forked
 
 [![Forkers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/forks/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/network/members)
