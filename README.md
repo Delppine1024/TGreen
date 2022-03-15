@@ -8,9 +8,9 @@ Some crack files work well on Typora v1.1, Powered by TyporaCracker.
 
 [Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
+​	
 
-
-***This branch is dev channel, which designed for users wanna try modern behaviors on Typora-Dev Releases.**
+***This branch is dev Branch, which designed for users wanna try modern behaviors on Typora-Dev Releases.**
 
 
 
@@ -72,13 +72,13 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Logs
 
-| Timeline  | Actions                                                      |
-| --------- | ------------------------------------------------------------ |
-| 2022.3.15 | New branch for Typora-dev Releases, add support for 1.2.2-dev |
-| 2022.3.7  | README Detailed                                              |
-| 2022.2.26 | 1.1.5 file size reduced                                      |
-| 2022.2.25 | 1.1.4 and up cracked, upload to Github                       |
-| 2022.2.24 | Dev version build                                            |
+| Timeline  | Actions                                   |
+| --------- | ----------------------------------------- |
+| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
+| 2022.3.7  | README detailed                           |
+| 2022.2.26 | 1.1.5 file size reduced                   |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub    |
+| 2022.2.24 | Dev version build                         |
 
 
 
