@@ -74,6 +74,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
+| 2022.3.21 | Add Chinese language Readme Support       |
 | 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
 | 2022.3.7  | README detailed                           |
 | 2022.2.26 | 1.1.5 file size reduced                   |
