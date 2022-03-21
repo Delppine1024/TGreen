@@ -1,6 +1,6 @@
 # TyporaCrack - Dev Branch
 
-Some crack files work well on Typora v1.1, Powered by TyporaCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
+Some crack files work well on Typora v1.1, Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
 
 
 
