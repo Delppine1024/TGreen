@@ -1,6 +1,6 @@
 # TyporaCrack
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 版本及以上的一些文件。View the **English** version of Readme, pleades click [here](./README.md).
+基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
