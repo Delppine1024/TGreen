@@ -1,6 +1,6 @@
 # TyporaCrack
 
-Some crack files work well on Typora v1.1, Powered by TyporaCracker.
+Some crack files work well on Typora v1.1, Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
 
 
 
@@ -10,7 +10,7 @@ Some crack files work well on Typora v1.1, Powered by TyporaCracker.
 
 
 
-***New branch for Typora-dev Releases updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try it in the new branch ‘dev’.**
+***New branch for Typora-dev Releases updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try and check it on the new branch `dev`.**
 
 
 
@@ -50,7 +50,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    
 
-4. Copy the file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and replace it. 
+4. Copy the file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and **replace** it. 
 
    In Linux, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
 
@@ -58,7 +58,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 
 
-**The tool support the latest Typora v1.1.5 on Windows/Linux.**
+**The file support the latest Typora v1.1.5 on Windows/Linux.**
 
 
 
@@ -66,7 +66,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 **I HOPE FOR WORLD PEACE AND END OF HUMAN SUFFERING !** 
 
-2022.2.25
+**2022.2.25**
 
 
 
@@ -74,7 +74,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
-| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
+| 2022.3.21 | Add Chinese language Readme Support       |
+| 2022.3.15 | Add support for 1.2.2-dev on branch ‘dev’ |
 | 2022.3.7  | README detailed                           |
 | 2022.2.26 | 1.1.5 file size reduced                   |
 | 2022.2.25 | 1.1.4 and up cracked, upload to GitHub    |
@@ -92,9 +93,11 @@ MIT LICENSE
 
 ------
 
-If you like it, you can star/fork/watch this repository. 
+If you like this repo, you can star/fork/watch this repository. 
 
 **Plus, we always encourage buying license.**
+
+
 
 ## Who has starred
 
