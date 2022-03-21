@@ -55,7 +55,7 @@
 
 4. 复制得到的 `app.asar` ，拷贝并 **替换** `{Install_Location}/Typora/resources/app.asar` 。`Install_Location` 指的是 Typora 的安装目录。
 
-   在 Linux 系统并使用安装目录的，您可以使用该指令： `sudo cp {app.asar} /usr/share/typora/resources/` 。
+   在 Linux 系统并使用默认安装目录的，您可以使用该指令： `sudo cp {app.asar} /usr/share/typora/resources/` 。
 
 2. 完成。
 
