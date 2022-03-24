@@ -1,12 +1,14 @@
 # TyporaCrack
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.3) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
 **最新** 的 Typora 源程序下载链接：
 
 [Typora — Windows/Linux release channel](https://typora.io/releases/all)
+
+https://typora.io/windows/typora-setup-x64.exe
 
 
 
@@ -61,7 +63,7 @@
 
 
 
-**目前发布的文件支持最新版的 Typora v1.1.5，无论是在 Windows 还是 Linux。**
+**目前发布的文件支持最新版的 Typora v1.2.3，无论是在 Windows 还是 Linux。**
 
 
 
@@ -77,6 +79,7 @@
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
+| 2022.3.24 | 增加了对 1.2.3 版本的支持                 |
 | 2022.3.21 | 增加了中文语言文档的支持                  |
 | 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
 | 2022.3.7  | README detailed                           |

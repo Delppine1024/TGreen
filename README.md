@@ -1,12 +1,14 @@
 # TyporaCrack
 
-Some crack files work well on Typora v1.1, Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.2.3), Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
 
 
 
 **The latest** original Typora download link : 
 
 [Typora — Windows/Linux release channel](https://typora.io/releases/all)
+
+https://typora.io/windows/typora-setup-x64.exe
 
 
 
@@ -58,7 +60,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 
 
-**The file support the latest Typora v1.1.5 on Windows/Linux.**
+**The file support the latest Typora v1.2.3 on Windows/Linux.**
 
 
 
@@ -74,6 +76,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
+| 2022.3.24 | Add support for 1.2.3                     |
 | 2022.3.21 | Add Chinese language Readme Support       |
 | 2022.3.15 | Add support for 1.2.2-dev on branch ‘dev’ |
 | 2022.3.7  | README detailed                           |
