@@ -31,7 +31,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Usage
 
-1. Download the file `app_asar_file_v1.x` or ` app_asar_folder_v1.x` corresponding to the Typora version and **OS platform** from **Github releases**. 
+1. Download the file `app_asar_file_v1.x` or ` app_asar_folder_v1.x` corresponding to the Typora version and **OS-platform** from **Github releases**. 
 
    **\*\*Remind :** If you download the `app_asar_folder_v1.x`, you need to generate `app.asar` **Manually**. 
 
@@ -65,7 +65,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora version | Windows x64 | Windows x86 | Linux x64 |
 | :------------: | :---------: | :---------: | :-------: |
-|     v1.2.3     |      √      |      ×      |     ×     |
+|     v1.2.3     |      √      |      ×      |     √     |
 |     v1.1.5     |      √      |      ×      |     √     |
 |     v1.1.4     |      √      |      ×      |     √     |
 

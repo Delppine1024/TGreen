@@ -68,7 +68,7 @@ https://typora.io/windows/typora-setup-x64.exe
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Linux 64位 |
 | :---------: | :----------: | :----------: | :--------: |
-|   v1.2.3    |      √       |      ×       |     ×      |
+|   v1.2.3    |      √       |      ×       |     √      |
 |   v1.1.5    |      √       |      ×       |     √      |
 |   v1.1.4    |      √       |      ×       |     √      |
 
