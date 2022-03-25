@@ -65,7 +65,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora version | Windows x64 | Windows x86 | Linux x64 |
 | :------------: | :---------: | :---------: | :-------: |
-|     v1.2.3     |      √      |      ×      |     √     |
+|     v1.2.3     |      √      |      √      |     √     |
 |     v1.1.5     |      √      |      ×      |     √     |
 |     v1.1.4     |      √      |      ×      |     √     |
 
