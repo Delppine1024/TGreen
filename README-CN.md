@@ -34,7 +34,7 @@ https://typora.io/windows/typora-setup-x64.exe
 
 ## 使用方法
 
-1. 从 **Github Releases** 中下载与 Typora 的安装版本相符的文件 `app_asar_file_v1.x` 或者 ` app_asar_folder_v1.x` 。
+1. 从 **Github Releases** 中下载与 Typora 的安装版本和 **系统版本** 相符的文件 `app_asar_file_v1.x` 或者 ` app_asar_folder_v1.x` 。
 
    **\*\*注意:** 如果您下载的是 `app_asar_folder_v1.x`，您需要 **手动** 生成 `app.asar` 文件。
 
@@ -46,6 +46,7 @@ https://typora.io/windows/typora-setup-x64.exe
 
    ```
    git clone https://github.com/Mas0nShi/typoraCracker
+   git checkout {Typora_version+OS_Platform}
    python ./typoraCracker/typora.py -u ./dec_app ./outappasar
    ```
 
@@ -59,11 +60,17 @@ https://typora.io/windows/typora-setup-x64.exe
 
    在 Linux 系统并使用默认安装目录的，您可以使用该指令： `sudo cp {app.asar} /usr/share/typora/resources/` 。
 
-2. 完成。
+5. 完成。
 
+   
 
+## 支持列表
 
-**目前发布的文件支持最新版的 Typora v1.2.3，无论是在 Windows 还是 Linux。**
+| Typora 版本 | Windows 64位 | Windows 32位 | Linux 64位 |
+| :---------: | :----------: | :----------: | :--------: |
+|   v1.2.3    |      √       |      ×       |     ×      |
+|   v1.1.5    |      √       |      ×       |     √      |
+|   v1.1.4    |      √       |      ×       |     √      |
 
 
 
@@ -79,6 +86,7 @@ https://typora.io/windows/typora-setup-x64.exe
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
+| 2022.3.25 | 更改了 Readme 格式                        |
 | 2022.3.24 | 增加了对 1.2.3 版本的支持                 |
 | 2022.3.21 | 增加了中文语言文档的支持                  |
 | 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |

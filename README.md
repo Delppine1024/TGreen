@@ -31,7 +31,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Usage
 
-1. Download the file `app_asar_file_v1.x` or ` app_asar_folder_v1.x` corresponding to the Typora version from **Github releases**. 
+1. Download the file `app_asar_file_v1.x` or ` app_asar_folder_v1.x` corresponding to the Typora version and **OS platform** from **Github releases**. 
 
    **\*\*Remind :** If you download the `app_asar_folder_v1.x`, you need to generate `app.asar` **Manually**. 
 
@@ -43,6 +43,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    ```
    git clone https://github.com/Mas0nShi/typoraCracker
+   git checkout {Typora_version+OS_Platform}
    python ./typoraCracker/typora.py -u ./dec_app ./outappasar
    ```
 
@@ -56,11 +57,17 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    In Linux, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
 
-2. Then enjoy it.
+5. Then enjoy it.
 
+   
 
+## Support List
 
-**The file support the latest Typora v1.2.3 on Windows/Linux.**
+| Typora version | Windows x64 | Windows x86 | Linux x64 |
+| :------------: | :---------: | :---------: | :-------: |
+|     v1.2.3     |      √      |      ×      |     ×     |
+|     v1.1.5     |      √      |      ×      |     √     |
+|     v1.1.4     |      √      |      ×      |     √     |
 
 
 
@@ -76,7 +83,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
-| 2022.3.24 | Add support for 1.2.3                     |
+| 2022.3.25 | change readme format.                     |
+| 2022.3.24 | Add support for 1.2.3 in windows x64      |
 | 2022.3.21 | Add Chinese language Readme Support       |
 | 2022.3.15 | Add support for 1.2.2-dev on branch ‘dev’ |
 | 2022.3.7  | README detailed                           |
