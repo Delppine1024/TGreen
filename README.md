@@ -82,17 +82,17 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Logs
 
-| Timeline  | Actions                                   |
-| --------- | ----------------------------------------- |
-| 2022.3.28 | Add support for v1.2.4 in windows x64     |
-| 2022.3.25 | Change readme format, Add more support    |
-| 2022.3.24 | Add support for 1.2.3 in windows x64      |
-| 2022.3.21 | Add Chinese language Readme Support       |
-| 2022.3.15 | Add support for 1.2.2-dev on branch ‘dev’ |
-| 2022.3.7  | README detailed                           |
-| 2022.2.26 | 1.1.5 file size reduced                   |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub    |
-| 2022.2.24 | Dev version build                         |
+| Timeline  | Actions                                    |
+| --------- | ------------------------------------------ |
+| 2022.3.28 | Add support for v1.2.4 in windows x64      |
+| 2022.3.25 | Change readme format, Add more support     |
+| 2022.3.24 | Add support for v1.2.3 in windows x64      |
+| 2022.3.21 | Add Chinese language Readme Support        |
+| 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’ |
+| 2022.3.7  | README detailed                            |
+| 2022.2.26 | 1.1.5 file size reduced                    |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub     |
+| 2022.2.24 | Dev version build                          |
 
 
 

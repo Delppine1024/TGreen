@@ -91,7 +91,7 @@ https://typora.io/windows/typora-setup-x64.exe
 | 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持     |
 | 2022.3.24 | 增加了对 windows 64位系统 1.2.3 版本的支持 |
 | 2022.3.21 | 增加了中文语言文档的支持                   |
-| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’  |
+| 2022.3.15 | Add support for v1.2.2-dev in branch ‘dev’ |
 | 2022.3.7  | README detailed                            |
 | 2022.2.26 | 1.1.5 file size reduced                    |
 | 2022.2.25 | 1.1.4 and up cracked, upload to GitHub     |
