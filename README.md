@@ -65,6 +65,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora version | Windows x64 | Windows x86 | Linux x64 |
 | :------------: | :---------: | :---------: | :-------: |
+|     v1.2.4     |      ×      |      ×      |     ×     |
 |     v1.2.3     |      √      |      √      |     √     |
 |     v1.1.5     |      √      |      ×      |     √     |
 |     v1.1.4     |      √      |      ×      |     √     |
@@ -83,7 +84,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
-| 2022.3.25 | change readme format.                     |
+| 2022.3.28 | Prepare for new update                    |
+| 2022.3.25 | Change readme format                      |
 | 2022.3.24 | Add support for 1.2.3 in windows x64      |
 | 2022.3.21 | Add Chinese language Readme Support       |
 | 2022.3.15 | Add support for 1.2.2-dev on branch ‘dev’ |
