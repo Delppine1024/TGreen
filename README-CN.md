@@ -1,6 +1,6 @@
 # TyporaCrack
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.3) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.4) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -68,7 +68,7 @@ https://typora.io/windows/typora-setup-x64.exe
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Linux 64位 |
 | :---------: | :----------: | :----------: | :--------: |
-|   v1.2.4    |      ×       |      ×       |     ×      |
+|   v1.2.4    |      √       |      ×       |     ×      |
 |   v1.2.3    |      √       |      √       |     √      |
 |   v1.1.5    |      √       |      ×       |     √      |
 |   v1.1.4    |      √       |      ×       |     √      |
@@ -85,17 +85,17 @@ https://typora.io/windows/typora-setup-x64.exe
 
 ## 修改日志
 
-| Timeline  | Actions                                   |
-| --------- | ----------------------------------------- |
-| 2022.3.28 | 准备新的更新                              |
-| 2022.3.25 | 更改了 Readme 格式                        |
-| 2022.3.24 | 增加了对 1.2.3 版本的支持                 |
-| 2022.3.21 | 增加了中文语言文档的支持                  |
-| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
-| 2022.3.7  | README detailed                           |
-| 2022.2.26 | 1.1.5 file size reduced                   |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub    |
-| 2022.2.24 | Dev version build                         |
+| Timeline  | Actions                                    |
+| --------- | ------------------------------------------ |
+| 2022.3.28 | 增加了对 windows 64位系统 1.2.4 版本的支持 |
+| 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持     |
+| 2022.3.24 | 增加了对 windows 64位系统 1.2.3 版本的支持 |
+| 2022.3.21 | 增加了中文语言文档的支持                   |
+| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’  |
+| 2022.3.7  | README detailed                            |
+| 2022.2.26 | 1.1.5 file size reduced                    |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub     |
+| 2022.2.24 | Dev version build                          |
 
 
 
