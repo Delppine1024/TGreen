@@ -1,3 +1,12 @@
+*We have been discovering the new techs, you can find some info below:
+
+- [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
+- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/TyporaCracker)
+
+The subsequent crack files maybe change types, and be different from the current ones.
+
+
+
 # TyporaCrack
 
 Some crack files work well on Typora v1.1 (The latest support v1.2.4), Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
@@ -115,6 +124,12 @@ If you like this repo, you can star/fork/watch this repository.
 ## Who has starred
 
 [![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
 
 
 

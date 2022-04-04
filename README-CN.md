@@ -1,3 +1,12 @@
+*目前正在进行新的探索，你可以从这两个链接找到相关的信息：
+
+- [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
+- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/TyporaCracker)
+
+后续的补丁方式可能与当前有所不同。
+
+
+
 # TyporaCrack
 
 基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.4) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
@@ -7,8 +16,6 @@
 **最新** 的 Typora 源程序下载链接：
 
 [Typora — Windows/Linux release channel](https://typora.io/releases/all)
-
-https://typora.io/windows/typora-setup-x64.exe
 
 
 
@@ -118,6 +125,12 @@ MIT 许可证
 ## 已经 star 本仓库的用户
 
 [![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
+
+
+
+## star 用户数量 / 时间变化图
+
+[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
 
 
 
