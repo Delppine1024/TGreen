@@ -17,8 +17,6 @@ Some crack files work well on Typora v1.1 (The latest support v1.2.4), Powered b
 
 [Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
-https://typora.io/windows/typora-setup-x64.exe
-
 
 
 ***New branch for Typora-dev Releases updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try and check it on the new branch `dev`.**
