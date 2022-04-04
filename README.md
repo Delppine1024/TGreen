@@ -93,6 +93,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                    |
 | --------- | ------------------------------------------ |
+| 2022.4.4  | Change readme and content statement        |
 | 2022.3.28 | Add support for v1.2.4 in all OS-Platform  |
 | 2022.3.25 | Change readme format, Add more support     |
 | 2022.3.24 | Add support for v1.2.3 in windows x64      |
