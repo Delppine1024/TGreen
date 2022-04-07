@@ -1,3 +1,5 @@
+<img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?style=plastic">
+
 *目前正在进行新的探索，你可以从这两个链接找到相关的信息：
 
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
