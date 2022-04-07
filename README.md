@@ -73,7 +73,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 | Windows Arm | Linux X64 | Linux Arm | MacOS |
 | :------------: | :---------: | :---------: | :---------: | :-------: | :-------: | :---: |
-|     v1.2.4     |      √      |      √      |     ---     |     √     |    ---    |  ---  |
+|     v1.2.4     |      √      |      √      |     ---     |     √     |    ---    |   ×   |
 |     v1.2.3     |      √      |      √      |      ×      |     √     |     ×     |   ×   |
 |     v1.1.5     |      √      |      ×      |     ---     |     √     |     √     |   ×   |
 |     v1.1.4     |      √      |      ×      |      √      |     √     |     √     |   ×   |
