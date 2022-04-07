@@ -1,6 +1,15 @@
+*目前正在进行新的探索，你可以从这两个链接找到相关的信息：
+
+- [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
+- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/TyporaCracker)
+
+后续的补丁方式可能与当前有所不同。
+
+
+
 # TyporaCrack  - 测试版分支
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.3.0-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -42,8 +51,10 @@
 
 3. **如果您下载了 `app_asar_folder_v1.x`, 您需要用到下面的这些指令:**
 
-   ```
+   ```bash
    git clone https://github.com/Mas0nShi/typoraCracker
+   git checkout {Typora_version+OS_Platform}
+   python -m pip install -r ./typoraCracker/requirements.txt
    python ./typoraCracker/typora.py -u ./dec_app ./outappasar
    ```
 
@@ -61,7 +72,12 @@
 
 
 
-**目前发布的文件支持最新测试版的 Typora v1.2.2-dev，无论是在 Windows 还是 Linux。**
+## 支持列表
+
+| Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm | MacOS |
+| :---------: | :----------: | :----------: | :---------: | :--------: | :-------: | :---: |
+| v1.3.0-dev  |      √       |     ---      |     ---     |     √      |    ---    |  ---  |
+| v1.2.2-dev  |      √       |     ---      |     ---     |     √      |    ---    |   ×   |
 
 
 
@@ -77,6 +93,7 @@
 
 | Timeline  | Actions                                   |
 | --------- | ----------------------------------------- |
+| 2022.4.8  | 增加了 v1.3.0-dev 版本的支持              |
 | 2022.3.21 | 增加了中文语言文档的支持                  |
 | 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
 | 2022.3.7  | README detailed                           |
@@ -105,6 +122,12 @@ MIT 许可证
 ## 已经 star 本仓库的用户
 
 [![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
+
+
+
+## star 用户数量 / 时间变化图
+
+[![Stargazers over time](README-CN.assets/TyporaCrack.svg+xml)](https://starchart.cc/SnapdragonLee/TyporaCrack)
 
 
 
