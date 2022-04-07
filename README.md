@@ -1,4 +1,12 @@
-<img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?style=plastic">
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.1.5/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.1.5)
+
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.4)
+
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.2-dev/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.3.0-dev)
+
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.3.0-dev/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.3.0-dev)
+
+
 
 *We have been discovering the new techs, you can find some info below:
 
