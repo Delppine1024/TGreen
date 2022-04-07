@@ -127,7 +127,7 @@ MIT 许可证
 
 ## star 用户数量 / 时间变化图
 
-[![Stargazers over time](README-CN.assets/TyporaCrack.svg+xml)](https://starchart.cc/SnapdragonLee/TyporaCrack)
+[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
 
 
 

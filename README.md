@@ -70,10 +70,10 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Support List
 
-| Typora Version | Windows X64 | Windows X86 | Windows Arm | Linux X64 | Linux Arm |
-| :------------: | :---------: | :---------: | :---------: | :-------: | :-------: |
-|   v1.3.0-dev   |      √      |     ---     |     ---     |     √     |    ---    |
-|   v1.2.2-dev   |      √      |     ---     |     ---     |     √     |    ---    |
+| Typora Version | Windows X64 | Windows X86 | Windows Arm | Linux X64 | Linux Arm | MacOS |
+| :------------: | :---------: | :---------: | :---------: | :-------: | :-------: | :---: |
+|   v1.3.0-dev   |      √      |     ---     |     ---     |     √     |    ---    |  ---  |
+|   v1.2.2-dev   |      √      |     ---     |     ---     |     √     |    ---    |   ×   |
 
 
 
