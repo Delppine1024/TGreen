@@ -19,7 +19,7 @@ Some crack files work well on Typora v1.1 (The latest support v1.2.4), Powered b
 
 
 
-***New branch for Typora-dev Releases updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try and check it on the new branch `dev`.**
+***New branch for Typora-dev Releases v1.3.0-dev updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try and check it on the new branch `dev`.**
 
 
 
@@ -51,6 +51,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
    ```
    git clone https://github.com/Mas0nShi/typoraCracker
    git checkout {Typora_version+OS_Platform}
+   python -m pip install -r ./typoraCracker/requirements.txt
    python ./typoraCracker/typora.py -u ./dec_app ./outappasar
    ```
 
@@ -70,12 +71,12 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Support List
 
-| Typora version | Windows x64 | Windows x86 | Linux x64 |
-| :------------: | :---------: | :---------: | :-------: |
-|     v1.2.4     |      √      |      √      |     √     |
-|     v1.2.3     |      √      |      √      |     √     |
-|     v1.1.5     |      √      |      ×      |     √     |
-|     v1.1.4     |      √      |      ×      |     √     |
+| Typora Version | Windows X64 | Windows X86 | Windows Arm | Linux X64 | Linux Arm | MacOS |
+| :------------: | :---------: | :---------: | :---------: | :-------: | :-------: | :---: |
+|     v1.2.4     |      √      |      √      |     ---     |     √     |    ---    |  ---  |
+|     v1.2.3     |      √      |      √      |      ×      |     √     |     ×     |   ×   |
+|     v1.1.5     |      √      |      ×      |     ---     |     √     |     √     |   ×   |
+|     v1.1.4     |      √      |      ×      |      √      |     √     |     √     |   ×   |
 
 
 
@@ -89,18 +90,19 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Logs
 
-| Timeline  | Actions                                    |
-| --------- | ------------------------------------------ |
-| 2022.4.4  | Change readme and content statement        |
-| 2022.3.28 | Add support for v1.2.4 in all OS-Platform  |
-| 2022.3.25 | Change readme format, Add more support     |
-| 2022.3.24 | Add support for v1.2.3 in windows x64      |
-| 2022.3.21 | Add Chinese language Readme Support        |
-| 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’ |
-| 2022.3.7  | README detailed                            |
-| 2022.2.26 | 1.1.5 file size reduced                    |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub     |
-| 2022.2.24 | Dev version build                          |
+| Timeline  | Actions                                                     |
+| --------- | ----------------------------------------------------------- |
+| 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed |
+| 2022.4.4  | Change readme and content statement                         |
+| 2022.3.28 | Add support for v1.2.4 in all OS-Platform                   |
+| 2022.3.25 | Change readme format, Add more support                      |
+| 2022.3.24 | Add support for v1.2.3 in windows x64                       |
+| 2022.3.21 | Add Chinese language Readme Support                         |
+| 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’                  |
+| 2022.3.7  | README detailed                                             |
+| 2022.2.26 | 1.1.5 file size reduced                                     |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                      |
+| 2022.2.24 | Dev version build                                           |
 
 
 

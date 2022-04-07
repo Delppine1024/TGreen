@@ -19,7 +19,7 @@
 
 
 
-***对于那些想要尝试开发功能、体验提前升级的 Typora-dev 测试版本的用户们，破解文件已经被发布在了新的分支上，您可以在新的 `dev` 分支查看并尝试它们。**
+***对于那些想要尝试开发功能、体验提前升级的 Typora-dev 测试版本的用户们，v1.3.0-dev 的文件已经被发布在了新的分支上，您可以在新的 `dev` 分支查看并尝试它们。**
 
 
 
@@ -54,6 +54,7 @@
    ```
    git clone https://github.com/Mas0nShi/typoraCracker
    git checkout {Typora_version+OS_Platform}
+   python -m pip install -r ./typoraCracker/requirements.txt
    python ./typoraCracker/typora.py -u ./dec_app ./outappasar
    ```
 
@@ -73,12 +74,12 @@
 
 ## 支持列表
 
-| Typora 版本 | Windows 64位 | Windows 32位 | Linux 64位 |
-| :---------: | :----------: | :----------: | :--------: |
-|   v1.2.4    |      √       |      √       |     √      |
-|   v1.2.3    |      √       |      √       |     √      |
-|   v1.1.5    |      √       |      ×       |     √      |
-|   v1.1.4    |      √       |      ×       |     √      |
+| Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm | MacOS |
+| :---------: | :----------: | :----------: | :---------: | :--------: | :-------: | :---: |
+|   v1.2.4    |      √       |      √       |     ---     |     √      |    ---    |  ---  |
+|   v1.2.3    |      √       |      √       |      ×      |     √      |     ×     |   ×   |
+|   v1.1.5    |      √       |      ×       |     ---     |     √      |     √     |   ×   |
+|   v1.1.4    |      √       |      ×       |      √      |     √      |     √     |   ×   |
 
 
 
@@ -92,18 +93,19 @@
 
 ## 修改日志
 
-| Timeline  | Actions                                    |
-| --------- | ------------------------------------------ |
-| 2022.4.4  | 更改了 Readme 内容，并做了内容说明         |
-| 2022.3.28 | 增加了对 所有操作系统 1.2.4 版本的支持     |
-| 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持     |
-| 2022.3.24 | 增加了对 windows 64位系统 1.2.3 版本的支持 |
-| 2022.3.21 | 增加了中文语言文档的支持                   |
-| 2022.3.15 | Add support for v1.2.2-dev in branch ‘dev’ |
-| 2022.3.7  | README detailed                            |
-| 2022.2.26 | 1.1.5 file size reduced                    |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub     |
-| 2022.2.24 | Dev version build                          |
+| Timeline  | Actions                                                      |
+| --------- | ------------------------------------------------------------ |
+| 2022.4.8  | 在 ‘dev’ 分支增加了 v1.3.0-dev 版本的支持，文档修改了部分内容 |
+| 2022.4.4  | 更改了 Readme 内容，并做了内容说明                           |
+| 2022.3.28 | 增加了对 所有操作系统 1.2.4 版本的支持                       |
+| 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持                       |
+| 2022.3.24 | 增加了对 windows 64位系统 1.2.3 版本的支持                   |
+| 2022.3.21 | 增加了中文语言文档的支持                                     |
+| 2022.3.15 | Add support for v1.2.2-dev in branch ‘dev’                   |
+| 2022.3.7  | README detailed                                              |
+| 2022.2.26 | 1.1.5 file size reduced                                      |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                       |
+| 2022.2.24 | Dev version build                                            |
 
 
 
