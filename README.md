@@ -1,4 +1,5 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.1.5/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.1.5)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.3/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.3)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.4)
 
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.2-dev/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.2-dev)
