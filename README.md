@@ -9,7 +9,6 @@
 *We have been discovering the new techs, you can find some info below:
 
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
-- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/TyporaCracker)
 
 The subsequent crack files maybe change types, and be different from the current ones.
 
@@ -69,9 +68,15 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    
 
-4. Copy the file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and **replace** it. 
+4. Copy the extracted file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and **replace** it. 
 
-   In Linux, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
+   In Linux and using default installing method, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
+
+   
+
+   **\*If you got extracted file `main.node` and `ex.js`, this means your OS-platform is Arm. You need to copy both files to `{Install_Location}/Typora/resources/app.asar.unpacked/`. These are experimental, which means we need more feedback.  We cannot test them, cause we don’t have any Arm device.**
+
+   
 
 5. Then enjoy it.
 
@@ -79,12 +84,12 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Support List
 
-| Typora Version | Windows X64 | Windows X86 | Windows Arm | Linux X64 | Linux Arm | MacOS |
-| :------------: | :---------: | :---------: | :---------: | :-------: | :-------: | :---: |
-|     v1.2.4     |      √      |      √      |     ---     |     √     |    ---    |   ×   |
-|     v1.2.3     |      √      |      √      |      ×      |     √     |     ×     |   ×   |
-|     v1.1.5     |      √      |      ×      |     ---     |     √     |     √     |   ×   |
-|     v1.1.4     |      √      |      ×      |      √      |     √     |     √     |   ×   |
+| Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
+| :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
+|     v1.2.3     |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
+|     v1.1.5     |      √      |      ×      |       ---        |     √     |        √         |   ×   |
+|     v1.1.4     |      √      |      ×      |        √         |     √     |        √         |   ×   |
 
 
 
@@ -100,6 +105,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                     |
 | --------- | ----------------------------------------------------------- |
+| 2022.4.13 | Add support for v1.2.3 in Windows/Linux Arm experimentally  |
 | 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed |
 | 2022.4.4  | Change readme and content statement                         |
 | 2022.3.28 | Add support for v1.2.4 in all OS-Platform                   |
