@@ -17,7 +17,7 @@
 
 # TyporaCrack
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.4) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.2.5) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -90,6 +90,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 |   Windows Arm    | Linux 64位 |    Linux Arm     | MacOS |
 | :---------: | :----------: | :----------: | :--------------: | :--------: | :--------------: | :---: |
+|   v1.2.5    |      √       |      √       |       ---        |    ---     |       ---        |  ---  |
 |   v1.2.4    |      √       |      √       |       ---        |     √      |       ---        |   ×   |
 |   v1.2.3    |      √       |      √       | √ (experimental) |     √      | √ (experimental) |   ×   |
 |   v1.1.5    |      √       |      ×       |       ---        |     √      |        √         |   ×   |

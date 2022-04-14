@@ -17,7 +17,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 # TyporaCrack
 
-Some crack files work well on Typora v1.1 (The latest support v1.2.4), Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.2.5), Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
 
 
 
@@ -81,12 +81,13 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 5. Then enjoy it.
 
-   
+
 
 ## Support List
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
 |     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
 |     v1.2.3     |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
 |     v1.1.5     |      √      |      ×      |       ---        |     √     |        √         |   ×   |
@@ -106,6 +107,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                     |
 | --------- | ----------------------------------------------------------- |
+| 2022.4.15 | Add support for v1.2.5 in Windows x86/x64                   |
 | 2022.4.13 | Add support for v1.2.3 in Windows/Linux Arm experimentally  |
 | 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed |
 | 2022.4.4  | Change readme and content statement                         |
