@@ -1,23 +1,25 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.1.5/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.1.5)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.3/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.3)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.4)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.1.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.1.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.1.5)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.3&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.3)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.4)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.2-dev/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.2-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.3.0-dev/total?style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.3.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.2-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.2-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
 
 
 *We have been discovering the new techs, you can find some info below:
 
+- [Delppine - TC](https://github.com/Delppine1024/TC)
+- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/typoraCracker)
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
 
 The subsequent crack files maybe change types, and be different from the current ones.
 
 
 
-# TyporaCrack
+# TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.2.5), Powered by typoraCracker. 查看 **中文** 文档请戳[这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.3.6), Powered by typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -33,7 +35,7 @@ Some crack files work well on Typora v1.1 (The latest support v1.2.5), Powered b
 
 ## ATTENTION
 
-**NOTE: Although TyporaCrack provide support for crack, we encourage buying license, in order to Support Genuine Software Development.**
+**NOTE: Although TyporaGreen provide support for crack, we encourage buying license, in order to Support Genuine Software Development.**
 
 
 
@@ -86,7 +88,9 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 ## Support List
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
-| :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|:--------------:|:-----------:|:-----------:|:----------------:|:---------:|:----------------:| :---: |
+|     v1.3.7     |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
+|     v1.3.6     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
 |     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
 |     v1.2.3     |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
@@ -105,21 +109,22 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 ## Logs
 
-| Timeline  | Actions                                                     |
-| --------- | ----------------------------------------------------------- |
-| 2022.4.15 | Add support for v1.2.5 in Windows x86/x64                   |
-| 2022.4.13 | Add support for v1.2.3 in Windows/Linux Arm experimentally  |
-| 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed |
-| 2022.4.4  | Change readme and content statement                         |
-| 2022.3.28 | Add support for v1.2.4 in all OS-Platform                   |
-| 2022.3.25 | Change readme format, Add more support                      |
-| 2022.3.24 | Add support for v1.2.3 in windows x64                       |
-| 2022.3.21 | Add Chinese language Readme Support                         |
-| 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’                  |
-| 2022.3.7  | README detailed                                             |
-| 2022.2.26 | 1.1.5 file size reduced                                     |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                      |
-| 2022.2.24 | Dev version build                                           |
+| Timeline  | Actions                                                      |
+| --------- | ------------------------------------------------------------ |
+| 2022.6.22 | Add support for v1.2.3, v1.2.4, v1.2.5, v1.3.6 in Windows x86/x64, Linux x64 and Arm64(some parts) |
+| 2022.4.15 | Add support for v1.2.5 in Windows x86/x64                    |
+| 2022.4.13 | Add support for v1.2.3 in Windows/Linux Arm experimentally   |
+| 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed  |
+| 2022.4.4  | Change readme and content statement                          |
+| 2022.3.28 | Add support for v1.2.4 in all OS-Platform                    |
+| 2022.3.25 | Change readme format, Add more support                       |
+| 2022.3.24 | Add support for v1.2.3 in windows x64                        |
+| 2022.3.21 | Add Chinese language Readme Support                          |
+| 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’                   |
+| 2022.3.7  | README detailed                                              |
+| 2022.2.26 | 1.1.5 file size reduced                                      |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                       |
+| 2022.2.24 | Dev version build                                            |
 
 
 
@@ -141,16 +146,16 @@ If you like this repo, you can star/fork/watch this repository.
 
 ## Who has starred
 
-[![Stargazers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/stars/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/stargazers)
+[![Stargazers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/stars/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
 
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/SnapdragonLee/TyporaCrack.svg)](https://starchart.cc/SnapdragonLee/TyporaCrack)
+[![Stargazers over time](https://starchart.cc/Delppine1024/TyporaGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
 
 
 
 ## Who has forked
 
-[![Forkers repo roster for @SnapdragonLee/TyporaCrack](https://reporoster.com/forks/dark/SnapdragonLee/TyporaCrack)](https://github.com/SnapdragonLee/TyporaCrack/network/members)
+[![Forkers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/forks/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)
