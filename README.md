@@ -1,8 +1,8 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=Downloadv1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Downloadv1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.4/total?label=Downloadv1.2.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.4)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.7/total?label=Download%40v1.3.7&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.7)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Downloadv1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
 
 
@@ -18,7 +18,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 # TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.3.6), Powered by typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.3.7), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -72,7 +72,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 4. Copy the extracted file `app.asar` to `{Install_Location}/Typora/resources/app.asar` and **replace** it. 
 
-   In Linux and using default installing method, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
+   On Linux and using default installing method, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
 
    
 
@@ -87,8 +87,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 ## Support List
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
-|:--------------:|:-----------:|:-----------:|:----------------:|:---------:|:----------------:| :---: |
-|     v1.3.7     |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
+| :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.3.7     |      √      |      √      |       ---        |    ---    |       ---        |   ×   |
 |     v1.3.6     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
 |     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
@@ -110,14 +110,15 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
-| 2022.6.22 | Add support for v1.2.3, v1.2.4, v1.2.5, v1.3.6 in Windows x86/x64, Linux x64 and Arm64(some parts) |
-| 2022.4.15 | Add support for v1.2.5 in Windows x86/x64                    |
-| 2022.4.13 | Add support for v1.2.3 in Windows/Linux Arm experimentally   |
+| 2022.6.24 | Add support for v1.3.7 on Windows x86/x64                    |
+| 2022.6.22 | Add support for v1.2.3, v1.2.4, v1.2.5, v1.3.6 on Windows x86/x64, Linux x64 and Arm64(some parts) |
+| 2022.4.15 | Add support for v1.2.5 on Windows x86/x64                    |
+| 2022.4.13 | Add support for v1.2.3 on Windows/Linux Arm experimentally   |
 | 2022.4.8  | Add support for v1.3.0-dev on branch ‘dev’, Readme detailed  |
 | 2022.4.4  | Change readme and content statement                          |
-| 2022.3.28 | Add support for v1.2.4 in all OS-Platform                    |
-| 2022.3.25 | Change readme format, Add more support                       |
-| 2022.3.24 | Add support for v1.2.3 in windows x64                        |
+| 2022.3.28 | Add support for v1.2.4 on all OS-Platform                    |
+| 2022.3.25 | Change readme format, add more support                       |
+| 2022.3.24 | Add support for v1.2.3 on Windows x64                        |
 | 2022.3.21 | Add Chinese language Readme Support                          |
 | 2022.3.15 | Add support for v1.2.2-dev on branch ‘dev’                   |
 | 2022.3.7  | README detailed                                              |

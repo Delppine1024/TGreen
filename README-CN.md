@@ -1,6 +1,6 @@
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.7/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.7&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.7)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.4)
 
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
@@ -20,8 +20,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.3.6) 版本及以上的一些文件。View the **English** version of Readme, please
-click [here](./README.md).
+基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.3.7) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -95,14 +94,14 @@ click [here](./README.md).
 ## 支持列表
 
 | Typora 版本 | Windows 64位 | Windows 32位 |   Windows Arm    | Linux 64位 |    Linux Arm     | MacOS |
-|:---------:|:-----------:|:-----------:|:----------------:|:---------:|:----------------:| :---: |
-|  v1.3.7   |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
-|  v1.3.6   |      √      |      √      |        ×         |     √     |        ×         |   ×   |
-|  v1.2.5   |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
-|  v1.2.4   |      √      |      √      |       ---        |     √     |       ---        |   ×   |
-|  v1.2.3   |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
-|  v1.1.5   |      √      |      ×      |       ---        |     √     |        √         |   ×   |
-|  v1.1.4   |      √      |      ×      |        √         |     √     |        √         |   ×   |
+| :---------: | :----------: | :----------: | :--------------: | :--------: | :--------------: | :---: |
+|   v1.3.7    |      √       |      √       |       ---        |    ---     |       ---        |   ×   |
+|   v1.3.6    |      √       |      √       |        ×         |     √      |        ×         |   ×   |
+|   v1.2.5    |      √       |      √       |       ---        |    ---     |       ---        |  ---  |
+|   v1.2.4    |      √       |      √       |       ---        |     √      |       ---        |   ×   |
+|   v1.2.3    |      √       |      √       | √ (experimental) |     √      | √ (experimental) |   ×   |
+|   v1.1.5    |      √       |      ×       |       ---        |     √      |        √         |   ×   |
+|   v1.1.4    |      √       |      ×       |        √         |     √      |        √         |   ×   |
 
 
 
@@ -118,13 +117,15 @@ click [here](./README.md).
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.6.24 | 增加了对 Windows 64/32 位系统 1.3.7 版本的支持               |
 | 2022.6.22 | 加入对 Windows 64/32 位，Linux 64 位，Arm64 系统（部分）的 v1.2.3、v1.2.4、v1.2.5、v1.3.6 的支持 |
-| 2022.4.13 | 实验性的加入对 Windows/Linux Arm v1.2.3 的支持               |
+| 2022.4.15 | 增加了对 Windows 64/32 位系统 1.2.5 版本的支持               |
+| 2022.4.13 | 实验性的加入对 Windows/Linux Arm 1.2.3 版本的支持            |
 | 2022.4.8  | 在 ‘dev’ 分支增加了 v1.3.0-dev 版本的支持，文档修改了部分内容 |
 | 2022.4.4  | 更改了 Readme 内容，并做了内容说明                           |
 | 2022.3.28 | 增加了对 所有操作系统 1.2.4 版本的支持                       |
 | 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持                       |
-| 2022.3.24 | 增加了对 windows 64位系统 1.2.3 版本的支持                   |
+| 2022.3.24 | 增加了对 Windows 64 位系统 1.2.3 版本的支持                  |
 | 2022.3.21 | 增加了中文语言文档的支持                                     |
 | 2022.3.15 | Add support for v1.2.2-dev in branch ‘dev’                   |
 | 2022.3.7  | README detailed                                              |
