@@ -1,0 +1,23 @@
+# This is a basic workflow to help you get started with Actions
+
+name: visual change
+
+on:
+  schedule:
+    - cron: '0 13-19/2 * * 1-5/2'
+    - cron: '0 14-20/2 * * 1-5/2'
+
+jobs:
+  visibility:
+    runs-on: ubuntu-latest
+    steps:
+      - name: public time
+        if: github.event.schedule != '0 14-20/2 * * 1-5/2'
+        run: gh repo edit Delppine1024/TyporaGreen --visibility public
+        env:
+          GITHUB_TOKEN: ${{ secrets.KEYVALUE }}
+
+      - name: private time
+        run: gh repo edit Delppine1024/TyporaGreen --visibility private
+        env:
+          GITHUB_TOKEN: ${{ secrets.KEYVALUE }}
