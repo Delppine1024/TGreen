@@ -1,0 +1,16 @@
+# This is a basic workflow to help you get started with Actions
+
+name: visual private
+
+on:
+  schedule:
+    - cron: '0 6-14/2 * * 1,2-6/2'
+
+jobs:
+  visibility:
+    runs-on: ubuntu-latest
+    steps:
+      - name: private time
+        run: gh repo edit Delppine1024/TyporaGreen --visibility private
+        env:
+          GITHUB_TOKEN: ${{ secrets.KEYVALUE }}
