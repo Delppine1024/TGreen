@@ -4,7 +4,7 @@ name: visual public
 
 on:
   schedule:
-    - cron: '0 13-19/2 * * 1-5/2'
+    - cron: '0 5-13/2 * * 1-5/2'
 
 jobs:
   visibility:
