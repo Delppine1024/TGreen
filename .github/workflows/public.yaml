@@ -1,6 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: visual public
+
 on:
   schedule:
     - cron: '0 13-19/2 * * 1-5/2'
