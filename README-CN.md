@@ -2,6 +2,8 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.0-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
 
@@ -30,7 +32,7 @@
 
 
 
-***对于那些想要尝试开发功能、体验提前升级的 Typora-dev 测试版本的用户们，v1.3.0-dev 的文件已经被发布在了新的分支上，您可以在新的 `dev` 分支查看并尝试它们。**
+***对于那些想要尝试开发功能、体验提前升级的 Typora-dev 测试版本的用户们，这些文件会被及时的更新在新的分支上，您可以在新的 `dev` 分支查看并尝试它们。**
 
 
 
@@ -118,6 +120,7 @@
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.8.27 | 修改了项目对于 dev 分支的细节描述                            |
 | 2022.6.27 | 增加了对 Windows 32/64 位系统 1.3.8 版本的支持               |
 | 2022.6.24 | 增加了对 Windows 32/64 位系统 1.3.7 版本的支持               |
 | 2022.6.22 | 加入对 Windows 32/64 位，Linux 64 位，Arm64 系统（部分）的 1.2.3、1.2.4、1.2.5、1.3.6 的支持 |

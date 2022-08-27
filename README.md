@@ -2,6 +2,8 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.0-dev/total?label=Download%40v1.4.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.0-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
 
@@ -28,7 +30,7 @@ Some crack files work well on Typora v1.1 (The latest support v1.3.8), Based on 
 
 
 
-***New branch for Typora-dev Releases v1.3.0-dev updated, which designed for users wanna try modern behaviors on Typora-Dev Releases. You can try and check it on the new branch `dev`.**
+***New branch for Typora-dev Releases, which designed for users who wants to try modern behaviors on Typora-Dev Releases, will be updated in time. You can try and check it on the new branch `dev`.**
 
 
 
@@ -111,6 +113,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.8.27 | Modified the project's detailed description of the ‘dev’ branch |
 | 2022.6.27 | Add support for v1.3.8 on Windows x86/x64                    |
 | 2022.6.24 | Add support for v1.3.7 on Windows x86/x64                    |
 | 2022.6.22 | Add support for v1.2.3, v1.2.4, v1.2.5, v1.3.6 on Windows x86/x64, Linux x64 and Arm64(some parts) |
