@@ -1,23 +1,27 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.1.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.1.5&style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.1.5)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.4&style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.4)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.2.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.2-dev&style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.2.2-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/SnapdragonLee/TyporaCrack/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/SnapdragonLee/TyporaCrack/releases/tag/v1.3.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 
 
 
-*目前正在进行新的探索，你可以从这两个链接找到相关的信息：
+*目前正在进行新的探索，你可以从以下链接找到相关的信息：
 
+- [Delppine - TC](https://github.com/Delppine1024/TC)
+- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/typoraCracker)
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
-- [Yoshino-s - TyporaCracker](https://github.com/Yoshino-s/TyporaCracker)
 
 后续的补丁方式可能与当前有所不同。
 
 
 
+
+
 # TyporaCrack  - 测试版分支
 
-基于 typoraCracker 技术支持产生的用于破解 Typora v1.1 (最新支持 v1.3.0-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.4.1-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -82,10 +86,15 @@
 
 ## 支持列表
 
-| Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm | MacOS |
-| :---------: | :----------: | :----------: | :---------: | :--------: | :-------: | :---: |
-| v1.3.0-dev  |      √       |     ---      |     ---     |     √      |    ---    |  ---  |
-| v1.2.2-dev  |      √       |     ---      |     ---     |     √      |    ---    |   ×   |
+| Typora 版本 | Windows 64位 | Linux 64位 | MacOS |
+| :---------: | :----------: | :--------: | :---: |
+| v1.4.1-dev  |      √       |     √      |   ×   |
+| v1.4.0-dev  |      √       |    ---     |   ×   |
+| v1.3.3-dev  |      ×       |     ×      |   ×   |
+| v1.3.2-dev  |      ×       |     ×      |   ×   |
+| v1.3.1-dev  |      ×       |     ×      |   ×   |
+| v1.3.0-dev  |      √       |     √      |  ---  |
+| v1.2.2-dev  |      √       |     √      |   ×   |
 
 
 
@@ -99,15 +108,17 @@
 
 ## 修改日志
 
-| Timeline  | Actions                                   |
-| --------- | ----------------------------------------- |
-| 2022.4.8  | 增加了 v1.3.0-dev 版本的支持              |
-| 2022.3.21 | 增加了中文语言文档的支持                  |
-| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’ |
-| 2022.3.7  | README detailed                           |
-| 2022.2.26 | 1.1.5 file size reduced                   |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub    |
-| 2022.2.24 | Dev version build                         |
+| Timeline  | Actions                                                      |
+| --------- | ------------------------------------------------------------ |
+| 2022.8.27 | 增加了对 Windows 64 位，Linux 64 位系统 v1.4.0-dev 版本的支持 |
+| 2022.7.31 | 增加了对 Windows 64 位系统 v1.4.0-dev 版本的支持             |
+| 2022.4.8  | 增加了对 Windows 64 位系统 v1.3.0-dev 版本的支持             |
+| 2022.3.21 | 增加了中文语言文档的支持                                     |
+| 2022.3.15 | Add support for 1.2.2-dev in branch ‘dev’                    |
+| 2022.3.7  | README detailed                                              |
+| 2022.2.26 | 1.1.5 file size reduced                                      |
+| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                       |
+| 2022.2.24 | Dev version build                                            |
 
 
 
