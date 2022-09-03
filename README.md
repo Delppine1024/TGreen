@@ -1,5 +1,5 @@
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.3/total?label=Download%40v1.4.3&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.3)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
@@ -20,7 +20,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 # TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.3.8), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.4.3), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -90,6 +90,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.4.3     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.3.8     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
 |     v1.3.7     |      √      |      √      |       ---        |    ---    |       ---        |   ×   |
 |     v1.3.6     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
@@ -113,6 +114,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.9.3  | Add support for v1.4.3 on Windows x86/x64, Linux x64         |
 | 2022.8.27 | Modified the project's detailed description of the ‘dev’ branch |
 | 2022.6.27 | Add support for v1.3.8 on Windows x86/x64                    |
 | 2022.6.24 | Add support for v1.3.7 on Windows x86/x64                    |

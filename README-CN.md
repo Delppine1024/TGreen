@@ -1,5 +1,5 @@
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.3&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.3)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
@@ -22,7 +22,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.3.8) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.4.3) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -97,6 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :---------: | :----------: | :----------: | :---------: | :--------: | :--------: | :---: |
+|   v1.4.3    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.3.8    |      √       |      √       |     ---     |    ---     |    ---     |  ---  |
 |   v1.3.7    |      √       |      √       |     ---     |    ---     |    ---     |   ×   |
 |   v1.3.6    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
@@ -120,6 +121,7 @@
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.9.3  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.4.3 版本的支持  |
 | 2022.8.27 | 修改了项目对于 dev 分支的细节描述                            |
 | 2022.6.27 | 增加了对 Windows 32/64 位系统 1.3.8 版本的支持               |
 | 2022.6.24 | 增加了对 Windows 32/64 位系统 1.3.7 版本的支持               |
