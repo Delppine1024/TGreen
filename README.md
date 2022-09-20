@@ -1,6 +1,6 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.3/total?label=Download%40v1.4.3&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.3)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.7/total?label=Download%40v1.4.7&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.7)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5)
 
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.0-dev/total?label=Download%40v1.4.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.0-dev)
@@ -90,7 +90,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
-|     v1.4.4     |      √      |      ×      |        ×         |     ×     |        ×         |   ×   |
+|     v1.4.7     |      ×      |     ---     |       ---        |    ---    |       ---        |  ---  |
+|     v1.4.4     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.4.3     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.3.8     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
 |     v1.3.7     |      √      |      √      |       ---        |    ---    |       ---        |   ×   |
@@ -115,6 +116,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.9.21 | Add support for v1.4.4 on Windows x86, Linux x64             |
 | 2022.9.12 | Add support for v1.4.4 on Windows x64                        |
 | 2022.9.3  | Add support for v1.4.3 on Windows x86/x64, Linux x64         |
 | 2022.8.27 | Modified the project's detailed description of the ‘dev’ branch |
