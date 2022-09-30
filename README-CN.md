@@ -22,7 +22,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.4.4) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 技术，并独自研发生成的用于破解 Typora v1.1 (最新支持 v1.4.7) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -97,7 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :---------: | :----------: | :----------: | :---------: | :--------: | :--------: | :---: |
-|   v1.4.7    |      ×       |     ---      |     ---     |    ---     |    ---     |  ---  |
+|   v1.4.7    |      √       |     ---      |     ---     |    ---     |    ---     |  ---  |
 |   v1.4.4    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.4.3    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.3.8    |      √       |      √       |     ---     |    ---     |    ---     |  ---  |
@@ -123,6 +123,7 @@
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.9.30 | 增加了对 Windows 64 位系统 1.4.7 版本的支持                  |
 | 2022.9.21 | 增加了对 Windows 32 位，Linux 64 位系统 1.4.4 版本的支持     |
 | 2022.9.12 | 增加了对 Windows 64 位系统 1.4.4 版本的支持                  |
 | 2022.9.3  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.4.3 版本的支持  |
