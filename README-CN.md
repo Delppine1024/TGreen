@@ -1,4 +1,4 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.7/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.7&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.7)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
@@ -97,6 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :---------: | :----------: | :----------: | :---------: | :--------: | :--------: | :---: |
+|   v1.4.8    |      √       |     ---      |     ---     |     √      |    ---     |  ---  |
 |   v1.4.7    |      √       |     ---      |     ---     |    ---     |    ---     |  ---  |
 |   v1.4.4    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.4.3    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
@@ -123,6 +124,7 @@
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.10.7 | 增加了对 Windows 64 位，Linux 64 位系统 1.4.8 版本的支持     |
 | 2022.9.30 | 增加了对 Windows 64 位系统 1.4.7 版本的支持                  |
 | 2022.9.21 | 增加了对 Windows 32 位，Linux 64 位系统 1.4.4 版本的支持     |
 | 2022.9.12 | 增加了对 Windows 64 位系统 1.4.4 版本的支持                  |

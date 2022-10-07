@@ -1,4 +1,4 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.7/total?label=Download%40v1.4.7&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.7)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
@@ -90,6 +90,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.4.8     |      √      |     ---     |       ---        |     √     |       ---        |  ---  |
 |     v1.4.7     |      √      |     ---     |       ---        |    ---    |       ---        |  ---  |
 |     v1.4.4     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.4.3     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
@@ -116,6 +117,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline  | Actions                                                      |
 | --------- | ------------------------------------------------------------ |
+| 2022.10.7 | Add support for v1.4.8 on Windows x64, Linux x64             |
 | 2022.9.30 | Add support for v1.4.7 on Windows x64                        |
 | 2022.9.21 | Add support for v1.4.4 on Windows x86, Linux x64             |
 | 2022.9.12 | Add support for v1.4.4 on Windows x64                        |
