@@ -2,7 +2,7 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
@@ -22,7 +22,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.0-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.1-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 

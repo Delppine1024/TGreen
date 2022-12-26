@@ -2,7 +2,7 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.0-dev/total?label=Download%40v1.5.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.0-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.1-dev/total?label=Download%40v1.5.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
@@ -20,7 +20,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 # TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.0-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.1-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
