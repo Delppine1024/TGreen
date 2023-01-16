@@ -2,7 +2,7 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.1-dev/total?label=Download%40v1.5.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.1-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.2-dev/total?label=Download%40v1.5.2-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.2-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
@@ -20,7 +20,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 # TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.1-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.2-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -84,6 +84,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.5.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.5.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.5.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |     v1.4.8     |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
@@ -120,6 +121,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.1.16  | Add support for v1.5.2-dev on Windows x64                    |
 | 2022.12.26 | Add support for v1.5.1-dev on Windows x64                    |
 | 2022.12.23 | Add support for v1.5.0-dev on Windows x64                    |
 | 2022.10.7  | Add support for v1.4.8 on Windows x64, Linux x64             |
@@ -167,16 +169,16 @@ If you like this repo, you can star/fork/watch this repository.
 
 ## Who has starred
 
-[![Stargazers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/stars/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
+[![Stargazers repo roster for @Delppine1024/TGreen](https://reporoster.com/stars/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
 
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Delppine1024/TyporaGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
+[![Stargazers over time](https://starchart.cc/Delppine1024/TGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
 
 
 
-## Who has forked
+## Who has forked (don’t fork plz)
 
-[![Forkers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/forks/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)
+[![Forkers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/forks/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)

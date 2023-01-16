@@ -2,7 +2,7 @@
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.1-dev)
+[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.2-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.2-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
 
@@ -22,7 +22,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.1-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.2-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -93,27 +93,28 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
-|   v1.5.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
-|   v1.5.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
-|     v1.4.8     |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
-|     v1.4.7     |      √      |     ---     |       ---        |    ---    |       ---        |  ---  |
-|     v1.4.4     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
-|     v1.4.3     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
-|   v1.4.1-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
-|   v1.4.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
-|     v1.3.8     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
-|     v1.3.7     |      √      |      √      |       ---        |    ---    |       ---        |   ×   |
-|     v1.3.6     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
-|   v1.3.3-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
-|   v1.3.2-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
-|   v1.3.1-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
-|   v1.3.0-dev   |      √      |     ---     |       ---        |     ×     |       ---        |   ×   |
-|     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
-|     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
-|     v1.2.3     |      √      |      √      | √ (实验性) |     √     | √ (实验性) |   ×   |
-|   v1.2.2-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
-|     v1.1.5     |      √      |      ×      |       ---        |     √     |        √         |   ×   |
-|     v1.1.4     |      √      |      ×      |        √         |     √     |        √         |   ×   |
+| v1.5.2-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+| v1.5.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+| v1.5.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+|   v1.4.8    |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
+|   v1.4.7    |      √       |     ---      |     ---     |    ---     |    ---     |  ---  |
+|   v1.4.4    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
+|   v1.4.3    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
+| v1.4.1-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
+| v1.4.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+|   v1.3.8    |      √       |      √       |     ---     |    ---     |    ---     |  ---  |
+|   v1.3.7    |      √       |      √       |     ---     |    ---     |    ---     |   ×   |
+|   v1.3.6    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
+| v1.3.3-dev  |      ×       |     ---      |     ---     |     ×      |    ---     |   ×   |
+| v1.3.2-dev  |      ×       |     ---      |     ---     |     ×      |    ---     |   ×   |
+| v1.3.1-dev  |      ×       |     ---      |     ---     |     ×      |    ---     |   ×   |
+| v1.3.0-dev  |      √       |     ---      |     ---     |     ×      |    ---     |   ×   |
+|   v1.2.5    |      √       |      √       |     ---     |    ---     |    ---     |  ---  |
+|   v1.2.4    |      √       |      √       |     ---     |     √      |    ---     |   ×   |
+|   v1.2.3    |      √       |      √       | √ (实验性)  |     √      | √ (实验性) |   ×   |
+| v1.2.2-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
+|   v1.1.5    |      √       |      ×       |     ---     |     √      |     √      |   ×   |
+| v1.1.4 | √ | × | √ | √ | √ | × |
 
 
 
@@ -129,6 +130,7 @@
 
 | Timeline  | Actions                                                                 |
 | --------- |-------------------------------------------------------------------------|
+| 2023.1.16 | 增加了对 Windows 64 位系统 1.5.2-dev 版本的支持 |
 | 2022.12.26 | 增加了对 Windows 64 位系统 1.5.1-dev 版本的支持                                     |
 | 2022.12.23 | 增加了对 Windows 64 位系统 1.5.0-dev 版本的支持                                    |
 | 2022.10.7 | 增加了对 Windows 64 位，Linux 64 位系统 1.4.8 版本的支持                              |
@@ -176,16 +178,16 @@ MIT 许可证
 
 ## 已经 star 本仓库的用户
 
-[![Stargazers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/stars/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
+[![Stargazers repo roster for @Delppine1024/TGreen](https://reporoster.com/stars/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
 
 
 
 ## star 用户数量 / 时间变化图
 
-[![Stargazers over time](https://starchart.cc/Delppine1024/TyporaGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
+[![Stargazers over time](https://starchart.cc/Delppine1024/TGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
 
 
 
-## 已经 fork 本仓库的用户
+## 已经 fork 本仓库的用户 (请不要 fork 本仓库)
 
-[![Forkers repo roster for @Delppine1024/TyporaGreen](https://reporoster.com/forks/dark/Delppine1024/TyporaGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)
+[![Forkers repo roster for @Delppine1024/TGreen](https://reporoster.com/forks/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)
