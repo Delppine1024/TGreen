@@ -1,10 +1,28 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
+### Recommend Version Match List
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.2-dev/total?label=Download%40v1.5.2-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.2-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
+| Upgrade      | Recommend Release Version                                    |
+| ------------ | ------------------------------------------------------------ |
+| v1.5.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.5/total?label=Download%40v1.5.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.5) |
+| v1.5.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.3-dev/total?label=Download%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.3-dev) |
+| v1.4.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4) |
+| v1.4.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev) |
+| v1.3.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6) |
+| v1.3.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev) |
+| v1.2.xv1.2.x | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5) |
+
+
+
+
+
+# TyporaGreen
+
+Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.3-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+
+
+
+**The latest** original Typora download link :
+
+[Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
 
 
@@ -15,18 +33,6 @@
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
 
 The subsequent crack files maybe change types, and be different from the current ones.
-
-
-
-# TyporaGreen
-
-Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.2-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
-
-
-
-**The latest** original Typora download link :
-
-[Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
 
 
@@ -84,6 +90,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.5.4-dev   |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
+|   v1.5.3-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
 |   v1.5.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.5.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.5.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
@@ -121,6 +129,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.2.4   | Add support for v1.5.3-dev on Windows x64, Linux x64         |
 | 2023.1.16  | Add support for v1.5.2-dev on Windows x64                    |
 | 2022.12.26 | Add support for v1.5.1-dev on Windows x64                    |
 | 2022.12.23 | Add support for v1.5.0-dev on Windows x64                    |
@@ -157,11 +166,9 @@ MIT LICENSE
 
 
 
-
-
 ------
 
-If you like this repo, you can star/fork/watch this repository.
+If you like this repo, you can star/watch this repository.
 
 **Plus, we always encourage buying license.**
 

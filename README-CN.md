@@ -1,10 +1,28 @@
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8)
+### 推荐版本匹配列表
 
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.2-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.2-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev)
+| 大版本     | 推荐下载版本                                                 |
+| ---------- | ------------------------------------------------------------ |
+| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.5) |
+| v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.3-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.3-dev) |
+| v1.4.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4) |
+| v1.4.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev) |
+| v1.3.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6) |
+| v1.3.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev) |
+| v1.2.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5) |
+
+
+
+
+
+# TyporaGreen
+
+基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+
+
+
+**最新** 的 Typora 源程序下载链接：
+
+[Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
 
 
@@ -15,20 +33,6 @@
 - [Mas0nShi - typoraCracker](https://github.com/Mas0nShi/typoraCracker)
 
 后续的补丁方式可能与当前有所不同。
-
-
-
-
-
-# TyporaGreen
-
-基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.2-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
-
-
-
-**最新** 的 Typora 源程序下载链接：
-
-[Typora — Windows/Linux release channel](https://typora.io/releases/all)
 
 
 
@@ -93,6 +97,8 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.5.4-dev  |     ---      |     ---      |     ---     |    ---     |    ---     |   ×   |
+| v1.5.3-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
 | v1.5.2-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.5.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.5.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
@@ -130,33 +136,34 @@
 
 | Timeline  | Actions                                                                 |
 | --------- |-------------------------------------------------------------------------|
-| 2023.1.16 | 增加了对 Windows 64 位系统 1.5.2-dev 版本的支持 |
-| 2022.12.26 | 增加了对 Windows 64 位系统 1.5.1-dev 版本的支持                                     |
-| 2022.12.23 | 增加了对 Windows 64 位系统 1.5.0-dev 版本的支持                                    |
-| 2022.10.7 | 增加了对 Windows 64 位，Linux 64 位系统 1.4.8 版本的支持                              |
-| 2022.9.30 | 增加了对 Windows 64 位系统 1.4.7 版本的支持                                         |
-| 2022.9.21 | 增加了对 Windows 32 位，Linux 64 位系统 1.4.4 版本的支持                              |
-| 2022.9.12 | 增加了对 Windows 64 位系统 1.4.4 版本的支持                                         |
-| 2022.9.3  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.4.3 版本的支持                           |
-| 2022.8.27 | 修改了项目对于 dev 分支的细节描述                                                     |
-| 2022.8.27 | 增加了对 Windows/Linux 64 位系统 1.4.1-dev 版本的支持                               |
-| 2022.7.31 | 增加了对 Windows 64 位系统 1.4.0-dev 版本的支持                                     |
-| 2022.6.27 | 增加了对 Windows 32/64 位系统 1.3.8 版本的支持                                      |
-| 2022.6.24 | 增加了对 Windows 32/64 位系统 1.3.7 版本的支持                                      |
-| 2022.6.22 | 加入对 Windows 32/64 位，Linux 64 位，Arm64 系统（部分）的 1.2.3、1.2.4、1.2.5、1.3.6 的支持 |
-| 2022.4.15 | 增加了对 Windows 32/64 位系统 1.2.5 版本的支持                                      |
-| 2022.4.13 | 实验性的加入对 Windows/Linux Arm 1.2.3 版本的支持                                   |
-| 2022.4.8  | 在 ‘dev’ 分支增加了 1.3.0-dev 版本的支持，文档修改了部分内容                                 |
-| 2022.4.4  | 更改了 Readme 内容，并做了内容说明                                                   |
-| 2022.3.28 | 增加了对 所有操作系统 1.2.4 版本的支持                                                 |
-| 2022.3.25 | 更改了 Readme 格式，增加了更多平台支持                                                 |
-| 2022.3.24 | 增加了对 Windows 64 位系统 1.2.3 版本的支持                                         |
-| 2022.3.21 | 增加了中文语言文档的支持                                                            |
-| 2022.3.15 | Add support for v1.2.2-dev in branch ‘dev’                              |
-| 2022.3.7  | README detailed                                                         |
-| 2022.2.26 | 1.1.5 file size reduced                                                 |
-| 2022.2.25 | 1.1.4 and up cracked, upload to GitHub                                  |
-| 2022.2.24 | Dev version build                                                       |
+| 2023.2.4   | 增加了对 Windows 64 位，Linux 64 位系统 1.5.3-dev 版本的支持 |
+| 2023.1.16  | 增加了对 Windows 64 位系统 1.5.2-dev 版本的支持              |
+| 2022.12.26 | 增加了对 Windows 64 位系统 1.5.1-dev 版本的支持              |
+| 2022.12.23 | 增加了对 Windows 64 位系统 1.5.0-dev 版本的支持              |
+| 2022.10.7  | 增加了对 Windows 64 位，Linux 64 位系统 1.4.8 版本的支持     |
+| 2022.9.30  | 增加了对 Windows 64 位系统 1.4.7 版本的支持                  |
+| 2022.9.21  | 增加了对 Windows 32 位，Linux 64 位系统 1.4.4 版本的支持     |
+| 2022.9.12  | 增加了对 Windows 64 位系统 1.4.4 版本的支持                  |
+| 2022.9.3   | 增加了对 Windows 32/64 位，Linux 64 位系统 1.4.3 版本的支持  |
+| 2022.8.27  | 修改了项目对于 dev 分支的细节描述                            |
+| 2022.8.27  | 增加了对 Windows/Linux 64 位系统 1.4.1-dev 版本的支持        |
+| 2022.7.31  | 增加了对 Windows 64 位系统 1.4.0-dev 版本的支持              |
+| 2022.6.27  | 增加了对 Windows 32/64 位系统 1.3.8 版本的支持               |
+| 2022.6.24  | 增加了对 Windows 32/64 位系统 1.3.7 版本的支持               |
+| 2022.6.22  | 加入对 Windows 32/64 位，Linux 64 位，Arm64 系统（部分）的 1.2.3、1.2.4、1.2.5、1.3.6 的支持 |
+| 2022.4.15  | 增加了对 Windows 32/64 位系统 1.2.5 版本的支持               |
+| 2022.4.13  | 实验性的加入对 Windows/Linux Arm 1.2.3 版本的支持            |
+| 2022.4.8   | 在 ‘dev’ 分支增加了 1.3.0-dev 版本的支持，文档修改了部分内容 |
+| 2022.4.4   | 更改了 Readme 内容，并做了内容说明                           |
+| 2022.3.28  | 增加了对 所有操作系统 1.2.4 版本的支持                       |
+| 2022.3.25  | 更改了 Readme 格式，增加了更多平台支持                       |
+| 2022.3.24  | 增加了对 Windows 64 位系统 1.2.3 版本的支持                  |
+| 2022.3.21  | 增加了中文语言文档的支持                                     |
+| 2022.3.15  | Add support for v1.2.2-dev in branch ‘dev’                   |
+| 2022.3.7   | README detailed                                              |
+| 2022.2.26  | 1.1.5 file size reduced                                      |
+| 2022.2.25  | 1.1.4 and up cracked, upload to GitHub                       |
+| 2022.2.24 | Dev version build |
 
 
 
@@ -166,11 +173,9 @@ MIT 许可证
 
 
 
-
-
 ------
 
-如果您喜欢本仓库，您可以 star/fork/watch 本仓库。
+如果您喜欢本仓库，您可以 star/watch 本仓库。
 
 **重申，我们永远鼓励购买激活。**
 
