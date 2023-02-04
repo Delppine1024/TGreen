@@ -16,7 +16,7 @@
 
 # TyporaGreen
 
-Some crack files work well on Typora v1.1 (The latest support v1.4.8/v1.5.3-dev), Based on typoraCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Typora v1.1 (The latest support v1.5.5/v1.5.3-dev), Based on typoraCrxxxxx. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -90,6 +90,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.5.5     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |   v1.5.4-dev   |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.5.3-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
 |   v1.5.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
@@ -129,6 +130,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.2.4   | Add support for v1.5.5 on Windows x86/x64, Linux x64         |
 | 2023.2.4   | Add support for v1.5.3-dev on Windows x64, Linux x64         |
 | 2023.1.16  | Add support for v1.5.2-dev on Windows x64                    |
 | 2022.12.26 | Add support for v1.5.1-dev on Windows x64                    |

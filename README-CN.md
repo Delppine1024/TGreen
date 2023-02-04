@@ -16,7 +16,7 @@
 
 # TyporaGreen
 
-基于 typoraCracker 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.4.8/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 typoraCrxxxxx 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.5.5/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -97,6 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.5.5    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 | v1.5.4-dev  |     ---      |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.5.3-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
 | v1.5.2-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
@@ -136,6 +137,7 @@
 
 | Timeline  | Actions                                                                 |
 | --------- |-------------------------------------------------------------------------|
+| 2023.2.4   | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.5 版本的支持  |
 | 2023.2.4   | 增加了对 Windows 64 位，Linux 64 位系统 1.5.3-dev 版本的支持 |
 | 2023.1.16  | 增加了对 Windows 64 位系统 1.5.2-dev 版本的支持              |
 | 2022.12.26 | 增加了对 Windows 64 位系统 1.5.1-dev 版本的支持              |

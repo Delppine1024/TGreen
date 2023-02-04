@@ -1,11 +1,11 @@
 {
     "name": "Typora",
-    "version": "1.4.4",
+    "version": "1.5.5",
     "main": "main.node",
     "family": "abnerworks",
     "private": true,
     "author": "typora.io",
     "homepage": "https://typora.io",
     "concat": "hi@typora.io",
-    "releaseId": "6cbe731e8"
+    "releaseId": "ac3781836"
 }
