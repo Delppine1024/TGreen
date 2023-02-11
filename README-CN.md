@@ -2,21 +2,21 @@
 
 | 大版本     | 推荐下载版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.5) |
-| v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.5.3-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.5.3-dev) |
-| v1.4.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.4) |
-| v1.4.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.4.1-dev) |
-| v1.3.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.6) |
-| v1.3.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.3.0-dev) |
-| v1.2.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TyporaGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TyporaGreen/releases/tag/v1.2.5) |
+| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.5) |
+| v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
+| v1.4.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.4) |
+| v1.4.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.1-dev) |
+| v1.3.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.6) |
+| v1.3.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.0-dev) |
+| v1.2.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.2.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.2.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.2.5) |
 
 
 
 
 
-# TyporaGreen
+# TxxxxxGreen
 
-基于 typoraCrxxxxx 仓库，并独自研发生成的用于绿化 Typora v1.1 (最新支持 v1.5.5/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.5.6/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -38,7 +38,7 @@
 
 ## 注意
 
-**重要: 尽管 TyporaGreen 提供破解支持，我们依然鼓励购买激活，目的是为了支持正版软件开发。**
+**重要: 尽管 TxxxxxGreen 提供破解支持，我们依然鼓励购买激活，目的是为了支持正版软件开发。**
 
 
 
@@ -97,6 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.5.6    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.5.5    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 | v1.5.4-dev  |     ---      |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.5.3-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
@@ -137,6 +138,7 @@
 
 | Timeline  | Actions                                                                 |
 | --------- |-------------------------------------------------------------------------|
+| 2023.2.12  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.6 版本的支持  |
 | 2023.2.4   | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.5 版本的支持  |
 | 2023.2.4   | 增加了对 Windows 64 位，Linux 64 位系统 1.5.3-dev 版本的支持 |
 | 2023.1.16  | 增加了对 Windows 64 位系统 1.5.2-dev 版本的支持              |
@@ -185,16 +187,16 @@ MIT 许可证
 
 ## 已经 star 本仓库的用户
 
-[![Stargazers repo roster for @Delppine1024/TGreen](https://reporoster.com/stars/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/stargazers)
+[![Stargazers repo roster for @Delppine1024/TGreen](https://reporoster.com/stars/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TGreen/stargazers)
 
 
 
 ## star 用户数量 / 时间变化图
 
-[![Stargazers over time](https://starchart.cc/Delppine1024/TGreen.svg)](https://starchart.cc/Delppine1024/TyporaGreen)
+[![Stargazers over time](https://starchart.cc/Delppine1024/TGreen.svg)](https://starchart.cc/Delppine1024/TGreen)
 
 
 
 ## 已经 fork 本仓库的用户 (请不要 fork 本仓库)
 
-[![Forkers repo roster for @Delppine1024/TGreen](https://reporoster.com/forks/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TyporaGreen/network/members)
+[![Forkers repo roster for @Delppine1024/TGreen](https://reporoster.com/forks/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TGreen/network/members)
