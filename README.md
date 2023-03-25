@@ -1,8 +1,8 @@
-### Recommend Version Match List
+### Recommend Version Match List (don’t fork plz)
 
 | Upgrade      | Recommend Release Version                                    |
 | ------------ | ------------------------------------------------------------ |
-| v1.5.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.9/total?label=Download%40v1.5.9&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.9) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.5/total?label=Download%40v1.5.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.5) |
+| v1.5.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=Download%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.5/total?label=Download%40v1.5.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.5) |
 | v1.5.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=Download%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
 | v1.4.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.4) |
 | v1.4.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.1-dev) |
@@ -16,7 +16,7 @@
 
 # TxxxxxGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.5.9/v1.5.3-dev), Based on txxxxxCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Txxxxx v1.1 (The latest support v1.5.10/v1.5.3-dev), Based on txxxxxCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -90,6 +90,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|    v1.5.10     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.5.9     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.5.8     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |     v1.5.6     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
@@ -133,6 +134,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.3.25  | Add support for v1.5.10 on Windows x86/x64, Linux x64        |
 | 2023.3.13  | Add support for v1.5.9 on Windows x86/x64, Linux x64         |
 | 2023.2.15  | Add support for v1.5.8 on Windows x86/x64, Linux x64         |
 | 2023.2.12  | Add support for v1.5.6 on Windows x86/x64, Linux x64         |

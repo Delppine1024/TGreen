@@ -1,8 +1,8 @@
-### 推荐版本匹配列表
+### 推荐版本匹配列表 (请不要 fork 本仓库)
 
 | 大版本     | 推荐下载版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.9/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.9&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.9) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.5) |
+| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.5) |
 | v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
 | v1.4.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.8/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.4/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.4) |
 | v1.4.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.1-dev) |
@@ -16,7 +16,7 @@
 
 # TxxxxxGreen
 
-基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.5.9/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.5.10/v1.5.3-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -56,7 +56,7 @@
 
 1. 从 **Github Releases** 中下载与 Typora 的安装版本和 **系统版本** 相符的文件 `app_asar_file_v1.x` 或者 ` app_asar_folder_v1.x` 。
 
-   > **\*\*注意:** 如果您下载的是 `app_asar_folder_v1.x`，您需要 **手动** 生成 `app.asar` 文件。 `app_asar_folder_v1.x` 不再会在 v1.5.0-dev 之后的版本中提供支持。
+   > **\*\*注意:** 如果您下载的是 `app_asar_folder_v1.x`，您需要 **手动** 生成 `app.asar` 文件。 `app_asar_folder_v1.x` 不会在 v1.5.0-dev 之后的版本中提供支持。
 
 
 
@@ -97,6 +97,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.5.10   |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.5.9    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.5.8    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
 |   v1.5.6    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
@@ -140,6 +141,7 @@
 
 | Timeline  | Actions                                                                 |
 | --------- |-------------------------------------------------------------------------|
+| 2023.3.25  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.10 版本的支持 |
 | 2023.3.13  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.9 版本的支持  |
 | 2023.2.15  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.8 版本的支持  |
 | 2023.2.12  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.5.6 版本的支持  |
