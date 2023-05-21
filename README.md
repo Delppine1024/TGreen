@@ -1,15 +1,15 @@
 ### Recommend Version Match List (don’t fork plz)
 
-| Upgrade      | Recommend Release Version                                    |
-| ------------ | ------------------------------------------------------------ |
-| v1.6.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.0-dev/total?label=Download%40v1.6.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.0-dev) |
-| v1.5.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.12/total?label=Download%40v1.5.12&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.12) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=Download%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) |
-| v1.5.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=Download%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
-| v1.4.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.4) |
-| v1.4.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.1-dev) |
-| v1.3.x       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.6) |
-| v1.3.x-dev   | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.0-dev) |
-| v1.2.xv1.2.x | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.2.5) |
+| Upgrade    | Recommend Release Version                                    |
+| ---------- | ------------------------------------------------------------ |
+| v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=Download%40v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.0-dev/total?label=Download%40v1.6.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.0-dev) |
+| v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.12/total?label=Download%40v1.5.12&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.12) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=Download%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) |
+| v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=Download%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
+| v1.4.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.8/total?label=Download%40v1.4.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.4/total?label=Download%40v1.4.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.4) |
+| v1.4.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.4.1-dev/total?label=Download%40v1.4.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.4.1-dev) |
+| v1.3.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.6) |
+| v1.3.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.0-dev) |
+| v1.2.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.2.5) |
 
 
 
@@ -17,7 +17,7 @@
 
 # TxxxxxGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.5.12/v1.6.0-dev), Based on txxxxxCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
+Some crack files work well on Txxxxx v1.1 (The latest support v1.6.5/v1.6.4-dev), Based on txxxxxCracker. 查看 **中文** 文档请戳 [这里](./README-CN.md).
 
 
 
@@ -91,6 +91,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.6.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.6.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |    v1.5.14     |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
 |    v1.5.13     |     ---     |     ---     |       ---        |    ---    |       ---        |   ×   |
@@ -140,6 +141,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.5.13  | Add support for v1.6.4-dev on Windows x64                    |
 | 2023.5.9   | Add support for v1.6.1-dev on Windows x64                    |
 | 2023.4.19  | Add support for v1.6.0-dev on Windows x64                    |
 | 2023.4.11  | Add support for v1.5.12 on Windows x86/x64                   |
