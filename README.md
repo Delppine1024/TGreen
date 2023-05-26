@@ -2,7 +2,7 @@
 
 | Upgrade    | Recommend Release Version                                    |
 | ---------- | ------------------------------------------------------------ |
-| v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.5/total?label=Download%40v1.6.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.5) |
+| v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=Download%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.5/total?label=Download%40v1.6.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.5) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=Download%40v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
 | v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.12/total?label=Download%40v1.5.12&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.12) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=Download%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) |
 | v1.5.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.3-dev/total?label=Download%40v1.5.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.3-dev) |
