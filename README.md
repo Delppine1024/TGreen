@@ -93,6 +93,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.7.3     |      √      |      √      |        ×         |     √     |        ×         |   ×   |
 |   v1.7.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.7.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.7.0-dev   |      √      |     ---     |       ---        |     √     |       ---        |  ---  |
@@ -150,6 +151,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.9.5   | Add support for v1.7.3 on Windows x86/x64, Linux x64         |
 | 2023.9.3   | Add support for v1.7.2-dev on Windows x64                    |
 | 2023.8.31  | Add support for v1.7.1-dev on Windows x64                    |
 | 2023.7.28  | Add support for v1.7.0-dev on Windows x64, Linux x64         |
