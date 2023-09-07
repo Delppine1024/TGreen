@@ -2,7 +2,8 @@
 
 | 大版本     | 推荐下载版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.1-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.0-dev) |
+| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
+| v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
 | v1.5.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.12/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.12&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.12) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.5.10/total?label=%E4%B8%8B%E8%BD%BD%40v1.5.10&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.5.10) |
@@ -19,7 +20,7 @@
 
 # TxxxxxGreen
 
-基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.7.3/v1.7.2-dev) 版本及以上的一些文件。View the **English** version of Readme, please click [here](./README.md).
+基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.7.4/v1.7.2-dev) 版本及以上的一些文件。查看 **繁體中文** 文档請點擊 [這裡](./README_CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -57,7 +58,7 @@
 
 ## 使用方法
 
-1. 从 **Github Releases** 中下载与 Typora 的安装版本和 **系统版本** 相符的文件 `app_asar_file_v1.x` 或者 ` app_asar_folder_v1.x` 。
+1. 从 **Github Releases** 中下载与 Typora 的安装版本和 **系统版本** 相符的文件 `app_asar_file_v1.x` 或者 `app_asar_folder_v1.x` 。
 
    > **\*\*注意:** 如果您下载的是 `app_asar_folder_v1.x`，您需要 **手动** 生成 `app.asar` 文件。 `app_asar_folder_v1.x` 不会在 v1.5.0-dev 之后的版本中提供支持。
 
@@ -86,9 +87,7 @@
 
    在 Linux 系统并使用默认安装目录的，您可以使用该指令： `sudo cp {app.asar} /usr/share/typora/resources/` 。
 
-   > **\*如果您得到解压过的文件是 `main.node` 和 `ex.js`，说明您想要使用的系统版本是 Arm
-架构。您需要把解压的所有文件复制并替换到 `{Install_Location}/Typora/resources/app.asar.unpacked/`
-。这些文件是实验性的，即我们需要更多用户的反馈进行改进。我们手头暂时没有相应的设备可以测试。**
+   > **\*如果您得到解压过的文件是 `main.node` 和 `ex.js`，说明您想要使用的系统版本是 Arm 架构 (建议尝试最新1.7.3版本，不再需要做本提示中的操作) 。您需要把解压的所有文件复制并替换到 `{Install_Location}/Typora/resources/app.asar.unpacked/` 。这些文件是实验性的，即我们需要更多用户的反馈进行改进。我们手头暂时没有相应的设备可以测试。**
 
 
 
@@ -100,7 +99,7 @@
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
-|   v1.7.3    |      √       |      √       |      ×      |     √      |     ×      |   ×   |
+|   v1.7.3    |      √       |      √       |      √      |     √      |     √     |   ×   |
 | v1.7.2-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.7.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.7.0-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
@@ -156,11 +155,12 @@
 
 ## 修改日志
 
-| Timeline  | Actions                                                                 |
+| 时间线 | 动态                                                               |
 | --------- |-------------------------------------------------------------------------|
+| 2023.9.7   | 增加了对 Windows/Linux Arm 系統 1.7.3 版本的支持，增加了繁体中文文档翻译 |
 | 2023.9.5   | 增加了对 Windows 32/64 位，Linux 64 位系统 1.7.3 版本的支持  |
-| 2023.9.3   | 增加了对 Windows 64 位 1.7.2-dev 版本的支持                  |
-| 2023.8.31  | 增加了对 Windows 64 位 1.7.1-dev 版本的支持                  |
+| 2023.9.3   | 增加了对 Windows 64 位系统 1.7.2-dev 版本的支持              |
+| 2023.8.31  | 增加了对 Windows 64 位系统 1.7.1-dev 版本的支持              |
 | 2023.7.28  | 增加了对 Windows 64 位，Linux 64 位系统 1.7.0-dev 版本的支持 |
 | 2023.5.26  | 增加了对 Windows 32/64 位系统 1.6.7 版本的支持               |
 | 2023.5.24  | 增加了对 Windows 32/64 位，Linux 64 位系统 1.6.6 版本的支持  |
@@ -188,15 +188,15 @@
 | 2022.7.31  | 增加了对 Windows 64 位系统 1.4.0-dev 版本的支持              |
 | 2022.6.27  | 增加了对 Windows 32/64 位系统 1.3.8 版本的支持               |
 | 2022.6.24  | 增加了对 Windows 32/64 位系统 1.3.7 版本的支持               |
-| 2022.6.22  | 加入对 Windows 32/64 位，Linux 64 位，Arm64 系统（部分）的 1.2.3、1.2.4、1.2.5、1.3.6 的支持 |
+| 2022.6.22  | 加入对 Windows 32/64 位，Linux 64 位，Arm 系统（部分）的 1.2.3、1.2.4、1.2.5、1.3.6 的支持 |
 | 2022.4.15  | 增加了对 Windows 32/64 位系统 1.2.5 版本的支持               |
-| 2022.4.13  | 实验性的加入对 Windows/Linux Arm 1.2.3 版本的支持            |
+| 2022.4.13  | 实验性的加入对 Windows/Linux Arm 系统 1.2.3 版本的支持       |
 | 2022.4.8   | 在 ‘dev’ 分支增加了 1.3.0-dev 版本的支持，文档修改了部分内容 |
 | 2022.4.4   | 更改了 Readme 内容，并做了内容说明                           |
 | 2022.3.28  | 增加了对 所有操作系统 1.2.4 版本的支持                       |
 | 2022.3.25  | 更改了 Readme 格式，增加了更多平台支持                       |
 | 2022.3.24  | 增加了对 Windows 64 位系统 1.2.3 版本的支持                  |
-| 2022.3.21  | 增加了中文语言文档的支持                                     |
+| 2022.3.21  | 增加了简体中文语言文档的支持                                 |
 | 2022.3.15  | Add support for v1.2.2-dev in branch ‘dev’                   |
 | 2022.3.7   | README detailed                                              |
 | 2022.2.26  | 1.1.5 file size reduced                                      |
