@@ -2,7 +2,7 @@
 
 | Upgrade    | Recommend Release Version                                    |
 | ---------- | ------------------------------------------------------------ |
-| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
+| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.4/total?label=Download%40v1.7.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.4) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=Download%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=Download%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=Download%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=Download%40v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
@@ -20,7 +20,7 @@
 
 # TxxxxxGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.7.4/v1.7.2-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README_CN.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.7.5/v1.7.2-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -94,6 +94,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.7.4     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |     v1.7.3     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |   v1.7.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |   v1.7.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
@@ -152,6 +153,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.9.10  | Add support for v1.7.4 on Windows x86/x64/Arm, Linux x64/Arm. |
 | 2023.9.7   | Add support for v1.7.3 on Windows/Linux Arm. Add Traditional Chinese (zh_tw) language Readme support |
 | 2023.9.5   | Add support for v1.7.3 on Windows x86/x64, Linux x64         |
 | 2023.9.3   | Add support for v1.7.2-dev on Windows x64                    |
