@@ -1,4 +1,4 @@
-# <span style="color:red; font-size:0.8em;">注意！請不要 fork 本倉庫，如果您選擇fork，我會禁止您訪問我的倉庫和主頁，謝謝！</span>
+# $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork，我會禁止您訪問我的倉庫和主頁，謝謝！}}$$
 
 
 
