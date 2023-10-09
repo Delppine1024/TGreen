@@ -1,8 +1,12 @@
-## Recommend Version Match List (don’t fork plz)
+# <span style="color: red; font size: 0.8em;">Attention! Please do not fork. If you insist to fork,  you will be banned from accessing my repo and homepage. Thanks! </Span>
+
+
+
+## Recommend Version Match List
 
 | Upgrade    | Recommend Release Version                                    |
 | ---------- | ------------------------------------------------------------ |
-| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.4/total?label=Download%40v1.7.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.4) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
+| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.5/total?label=Download%40v1.7.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=Download%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=Download%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=Download%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=Download%40v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
@@ -18,9 +22,9 @@
 
 
 
-# TxxxxxGreen
+# TGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.7.5/v1.7.2-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.7.6/v1.7.2-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -42,7 +46,7 @@ The subsequent crack files maybe change types, and be different from the current
 
 ## ATTENTION
 
-**NOTE: Although TxxxxxGreen provide support for crack, we encourage buying license, in order to Support Genuine Software Development.**
+**NOTE: Although TGreen provide support for crack, we encourage buying license, in order to Support Genuine Software Development.**
 
 
 
@@ -82,7 +86,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    On Linux and using default installing method, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
    
-   > **\*If you got extracted file `main.node` and `ex.js`, this means you have downloaded files for Arm OS (It is recommended to try the latest version 1.7.3, you can do the normal steps and escape this tip). You need to copy both files to `{Install_Location}/Typora/resources/app.asar.unpacked/`. These are experimental, which means we need more feedback.  We cannot test them, cause we don’t have any Arm device.**
+   > **\*If you got extracted file `main.node` and `ex.js`, this means you have downloaded files for Arm OS (It is recommended to try the latest version 1.7.x, you can do the normal steps and escape this tip). You need to copy both files to `{Install_Location}/Typora/resources/app.asar.unpacked/`. These are experimental, which means we need more feedback.  We cannot test them, cause we don’t have any Arm device.**
 
 
 
@@ -94,6 +98,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|     v1.7.6     |      √      |      √      |       ---        |     √     |        √         |   ×   |
+|     v1.7.5     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |     v1.7.4     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |     v1.7.3     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |   v1.7.2-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
@@ -145,7 +151,19 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 **I HOPE FOR WORLD PEACE AND END OF HUMAN SUFFERING !**
 
-**2022.2.25**
+**2022.2.25 [Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)**
+
+**2022.11.24 [Ürümqi fire](https://en.wikipedia.org/wiki/2022_Ürümqi_fire)**
+
+**2023.2.6 [Turkey–Syria earthquakes](https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes)**
+
+**2023.4.15 [War in Sudan](https://en.wikipedia.org/wiki/War_in_Sudan_(2023))**
+
+**2023.8.8 [Hawaii wildfires](https://en.wikipedia.org/wiki/2023_Hawaii_wildfires)**
+
+**2023.9.10 [Derna dam collapses](https://en.wikipedia.org/wiki/Derna_dam_collapses)**
+
+**2023.10.8 [Israeli–Palestinian conflict](https://en.wikipedia.org/wiki/Israeli–Palestinian_conflict)**
 
 
 
@@ -153,6 +171,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2023.9.23  | Add support for v1.7.5 on Windows x86/x64/Arm, Linux x64/Arm. |
 | 2023.9.10  | Add support for v1.7.4 on Windows x86/x64/Arm, Linux x64/Arm. |
 | 2023.9.7   | Add support for v1.7.3 on Windows/Linux Arm. Add Traditional Chinese (zh_tw) language Readme support |
 | 2023.9.5   | Add support for v1.7.3 on Windows x86/x64, Linux x64         |

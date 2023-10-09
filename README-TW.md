@@ -1,8 +1,12 @@
-## 推薦版本符合清單 （請不要 fork 本倉庫）
+# <span style="color:red; font-size:0.8em;">注意！請不要 fork 本倉庫，如果您選擇fork，我會禁止您訪問我的倉庫和主頁，謝謝！</span>
+
+
+
+## 推薦版本符合清單 
 
 | 大版本     | 推薦下載版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.4/total?label=%E4%B8%8B%E8%BC%89v1.7.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.4) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
+| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.5/total?label=%E4%B8%8B%E8%BC%89v1.7.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BC%89v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=%E4%B8%8B%E8%BC%89v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=%E4%B8%8B%E8%BC%89v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=%E4%B8%8B%E8%BC%89v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
@@ -18,9 +22,9 @@
 
 
 
-# TxxxxxGreen
+# TGreen
 
-基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.7.5/v1.7.2-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
+基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.7.6/v1.7.2-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -42,7 +46,7 @@
 
 ## 注意
 
-**重要： 儘管 TxxxxxGreen 提供破解支援，我們依然鼓勵購買啟動，目的是為了支援正版軟體開發。 **
+**重要： 儘管 TGreen 提供破解支援，我們依然鼓勵購買啟動，目的是為了支援正版軟體開發。 **
 
 
 
@@ -86,7 +90,7 @@
 
    在 Linux 系統並使用默認安裝目錄的，您可以使用該指令：`sudo cp {app.asar} /usr/share/typora/resources/` 。
 
-   > **\*如果您得到解壓過的檔案是 `main.node` 和 `ex.js` ，說明您想要使用的系統版本是 Arm 架構 (建議嘗試最新1.7.3版本，不再需要做本提示中的操作) 。您需要把解壓的所有檔案複製並替換到 `{Install_Location}/Typora/resources/app.asar.unpacked/` 。這些檔案是實驗性的，即我們需要更多用戶的迴響進行改進。 我們手頭暫時沒有相應的設備可以測試。**
+   > **\*如果您得到解壓過的檔案是 `main.node` 和 `ex.js` ，說明您想要使用的系統版本是 Arm 架構 (建議嘗試最新1.7.x版本，不再需要做本提示中的操作) 。您需要把解壓的所有檔案複製並替換到 `{Install_Location}/Typora/resources/app.asar.unpacked/` 。這些檔案是實驗性的，即我們需要更多用戶的迴響進行改進。 我們手頭暫時沒有相應的設備可以測試。**
 
 
 
@@ -98,6 +102,8 @@
 
 | Typora 版本 | Windows 64 位元 | Windows 32 位元 | Windows Arm | Linux 64 位元 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.7.6    |        √        |        √        |     ---     |       √       |     √      |   ×   |
+|   v1.7.5    |        √        |        √        |      √      |       √       |     √      |   ×   |
 |   v1.7.4    |        √        |        √        |      √      |       √       |     √      |   ×   |
 |   v1.7.3    |        √        |        √        |      √      |       √       |     √      |   ×   |
 | v1.7.2-dev  |        √        |       ---       |     ---     |      ---      |    ---     |   ×   |
@@ -140,7 +146,7 @@
 |   v1.2.4    |        √        |        √        |     ---     |       √       |    ---     |   ×   |
 |   v1.2.3    |        √        |        √        | √ (實驗性)  |       √       | √ (實驗性) |   ×   |
 | v1.2.2-dev  |        √        |       ---       |     ---     |       √       |    ---     |   ×   |
-|   v1.1.5    |        √        |        ×        |     ---     |       √       |     √      |   ×   |
+| v1.1.5 | √ | × | --- | √ | √ | × |
 | v1.1.4 | √ | × | √ | √ | √ | × |
 
 
@@ -149,7 +155,19 @@
 
 **我希望世界和平，且人類不要再遭受苦難！**
 
-**2022.2.25**
+**2022.2.25 [俄烏戰爭](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)**
+
+**2022.11.24 [新疆烏魯木齊住宅區火灾](https://en.wikipedia.org/wiki/2022_Ürümqi_fire)**
+
+**2023.2.6 [土耳其敘利亞強烈地震](https://en.wikipedia.org/wiki/2023_Turkey–Syria_earthquakes)**
+
+**2023.4.15 [蘇丹内亂](https://en.wikipedia.org/wiki/War_in_Sudan_(2023))**
+
+**2023.8.8 [夏威夷野火](https://en.wikipedia.org/wiki/2023_Hawaii_wildfires)**
+
+**2023.9.10 [利比亞洪災](https://en.wikipedia.org/wiki/Derna_dam_collapses)**
+
+**2023.10.8 [以巴衝突](https://en.wikipedia.org/wiki/Israeli–Palestinian_conflict)**
 
 
 
@@ -157,6 +175,7 @@
 
 | 時間軸 | 行動                                                                       |
 | --------- |--------------------------------------------------------------------------|
+| 2023.9.23  | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.7.5 版本的支援 |
 | 2023.9.10  | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.7.4 版本的支援 |
 | 2023.9.7   | 新增了對 Windows/Linux Arm 系統 1.7.3 版本的支援，增加了繁體中文文檔翻譯 |
 | 2023.9.5   | 新增了對 Windows 32/64 位元，Linux 64 位元系統 1.7.3 版本的支援 |
