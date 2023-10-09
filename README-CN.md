@@ -1,4 +1,4 @@
-# $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，我会禁止您访问我的仓库和主页，谢谢！}}$$
+$$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，我会禁止您访问我的仓库和主页，谢谢！}}$$
 
 
 
