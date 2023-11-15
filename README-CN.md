@@ -6,6 +6,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | 大版本     | 推荐下载版本                                                 |
 | ---------- | ------------------------------------------------------------ |
+| v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.1-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
