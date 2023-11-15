@@ -6,7 +6,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 大版本     | 推薦下載版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.5/total?label=%E4%B8%8B%E8%BC%89v1.7.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
+| v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=%E4%B8%8B%E8%BC%89v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BC%89v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=%E4%B8%8B%E8%BC%89v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=%E4%B8%8B%E8%BC%89v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
 | v1.6.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.4-dev/total?label=%E4%B8%8B%E8%BC%89v1.6.4-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.4-dev) |
@@ -24,7 +24,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 # TGreen
 
-基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.7.6/v1.7.2-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
+基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.7.6/v1.8.1-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -102,6 +102,8 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | Typora 版本 | Windows 64 位元 | Windows 32 位元 | Windows Arm | Linux 64 位元 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.8.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+| v1.8.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 |   v1.7.6    |        √        |        √        |     ---     |       √       |     √      |   ×   |
 |   v1.7.5    |        √        |        √        |      √      |       √       |     √      |   ×   |
 |   v1.7.4    |        √        |        √        |      √      |       √       |     √      |   ×   |
@@ -175,6 +177,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 時間軸 | 行動                                                                       |
 | --------- |--------------------------------------------------------------------------|
+| 2023.10.9  | 新增了對 Windows 32/64 位元，Linux 64/Arm 系統 1.7.6 版本的支援 |
 | 2023.9.23  | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.7.5 版本的支援 |
 | 2023.9.10  | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.7.4 版本的支援 |
 | 2023.9.7   | 新增了對 Windows/Linux Arm 系統 1.7.3 版本的支援，增加了繁體中文文檔翻譯 |
@@ -239,18 +242,10 @@ MIT 許可證
 
 
 
-## 已經 star 本倉庫的使用者
-
-[![Stargazers repo roster for @Delppine1024/TGreen](https://reporoster.com/stars/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TGreen/stargazers)
-
-
-
 ## star 使用者數量 / 時間變化圖
 
 [![Stargazers over time](https://starchart.cc/Delppine1024/TGreen.svg)](https://starchart.cc/Delppine1024/TGreen)
 
 
 
-## 已經 fork 本倉庫的使用者 （請不要 fork 本倉庫）
-
-[![Forkers repo roster for @Delppine1024/TGreen](https://reporoster.com/forks/dark/Delppine1024/TGreen)](https://github.com/Delppine1024/TGreen/network/members)
+## （請不要 fork 本倉庫）
