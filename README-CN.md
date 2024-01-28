@@ -6,7 +6,8 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | 大版本     | 推荐下载版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.1-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.1-dev) |
+| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
+| v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.3-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.0-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.8.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.0-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
@@ -25,7 +26,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 # TGreen
 
-基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.7.6/v1.8.1-dev) 版本及以上的一些文件。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。View the **English** version of Readme, please click [here](./README.md).
+基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.8.8/v1.8.3-dev) 版本及以上的一些文件。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -92,7 +93,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
    在 Linux 系统并使用默认安装目录的，您可以使用该指令： `sudo cp {app.asar} /usr/share/typora/resources/` 。
 
-   > **\*如果您得到解压过的文件是 `main.node` 和 `ex.js`，说明您想要使用的系统版本是 Arm 架构 (建议尝试最新1.7.x版本，不再需要做本提示中的操作) 。您需要把解压的所有文件复制并替换到 `{Install_Location}/Typora/resources/app.asar.unpacked/` 。这些文件是实验性的，即我们需要更多用户的反馈进行改进。我们手头暂时没有相应的设备可以测试。**
+   > **\*如果您得到解压过的文件是 `main.node` 和 `ex.js`，说明您想要使用的系统版本是 Arm 架构 (建议尝试最新1.7.x或更高版本，不再需要做本提示中的操作) 。您需要把解压的所有文件复制并替换到 `{Install_Location}/Typora/resources/app.asar.unpacked/` 。这些文件是实验性的，即我们需要更多用户的反馈进行改进。我们手头暂时没有相应的设备可以测试。**
 
 
 
@@ -104,6 +105,12 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.8.8    |     ---      |     ---      |     ---     |     √      |     √      |  ---  |
+|   v1.8.7    |     ---      |     ---      |     ---     |     √      |     √      |  ---  |
+|   v1.8.6    |      √       |      √       |     ---     |     √      |     √      |  ---  |
+|   v1.8.5    |      √       |      √       |      √      |     √      |     √      |   ×   |
+| v1.8.3-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+| v1.8.2-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
 | v1.8.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 | v1.8.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
 |   v1.7.6    |      √       |      √       |     ---     |    ---     |    ---     |   ×   |
@@ -146,10 +153,10 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 | v1.3.2-dev  |      ×       |     ---      |     ---     |     ×      |    ---     |   ×   |
 | v1.3.1-dev  |      ×       |     ---      |     ---     |     ×      |    ---     |   ×   |
 | v1.3.0-dev  |      √       |     ---      |     ---     |     ×      |    ---     |   ×   |
-|   v1.2.5    |      √       |      √       |     ---     |    ---     |    ---     |  ---  |
-|   v1.2.4    |      √       |      √       |     ---     |     √      |    ---     |   ×   |
-|   v1.2.3    |      √       |      √       | √ (实验性)  |     √      | √ (实验性) |   ×   |
-| v1.2.2-dev  |      √       |     ---      |     ---     |     √      |    ---     |   ×   |
+| v1.2.5 | √ | √ | --- | --- | --- | --- |
+| v1.2.4 | √ | √ | --- | √ | --- | × |
+| v1.2.3 | √ | √ | √ (实验性) | √ | √ (实验性) | × |
+| v1.2.2-dev | √ | --- | --- | √ | --- | × |
 | v1.1.5 | √ | × | --- | √ | √ | × |
 | v1.1.4 | √ | × | √ | √ | √ | × |
 
@@ -173,12 +180,15 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 **2023.10.8 [巴以冲突](https://en.wikipedia.org/wiki/Israeli–Palestinian_conflict)**
 
+**2024.1.12 [也门空袭](https://en.wikipedia.org/wiki/2024_missile_strikes_in_Yemen)**
+
 
 
 ## 修改日志
 
 | 时间线 | 动态                                                               |
 | --------- |-------------------------------------------------------------------------|
+| 2024.1.28  | 一次性增加了对 Windows 32/64/Arm，Linux 64/Arm 系统 1.8.0-dev - 1.8.8 版本的支持 |
 | 2023.9.23  | 增加了对 Windows 32/64 位，Linux 64/Arm 系统 1.7.6 版本的支持 |
 | 2023.9.23  | 增加了对 Windows 32/64/Arm，Linux 64/Arm 系统 1.7.5 版本的支持 |
 | 2023.9.10  | 增加了对 Windows 32/64/Arm，Linux 64/Arm 系统 1.7.4 版本的支持 |

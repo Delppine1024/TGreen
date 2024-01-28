@@ -6,7 +6,8 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 | Upgrade    | Recommend Release Version                                    |
 | ---------- | ------------------------------------------------------------ |
-| v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.1-dev/total?label=Download%40v1.8.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.1-dev) |
+| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=Download%40v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=Download%40v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
+| v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.3-dev/total?label=Download%40v1.8.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.0-dev/total?label=Download%40v1.8.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.0-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=Download%40v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=Download%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
 | v1.6.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.7/total?label=Download%40v1.6.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.6.6/total?label=Download%40v1.6.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.6.6) |
@@ -18,7 +19,6 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 | v1.3.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.8/total?label=Download%40v1.3.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.6/total?label=Download%40v1.3.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.6) |
 | v1.3.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.3.0-dev/total?label=Download%40v1.3.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.3.0-dev) |
 | v1.2.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.2.5/total?label=Download%40v1.2.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.2.5) |
-|            |                                                              |
 
 
 
@@ -26,7 +26,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 # TGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.7.6/v1.8.1-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.8.8/v1.8.3-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -88,7 +88,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
    On Linux and using default installing method, you can use the command: `sudo cp {app.asar} /usr/share/typora/resources/`.
    
-   > **\*If you got extracted file `main.node` and `ex.js`, this means you have downloaded files for Arm OS (It is recommended to try the latest version 1.7.x, you can do the normal steps and escape this tip). You need to copy both files to `{Install_Location}/Typora/resources/app.asar.unpacked/`. These are experimental, which means we need more feedback.  We cannot test them, cause we don’t have any Arm device.**
+   > **\*If you got extracted file `main.node` and `ex.js`, this means you have downloaded files for Arm OS (It is recommended to try the latest version 1.7.x or newer, you can do the normal steps and escape this tip). You need to copy both files to `{Install_Location}/Typora/resources/app.asar.unpacked/`. These are experimental, which means we need more feedback.  We cannot test them, cause we don’t have any Arm device.**
 
 
 
@@ -100,8 +100,14 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
-| v1.8.1-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
-| v1.8.0-dev  |      √       |     ---      |     ---     |    ---     |    ---     |   ×   |
+|     v1.8.8     |     ---     |     ---     |       ---        |     √     |        √         |  ---  |
+|     v1.8.7     |     ---     |     ---     |       ---        |     √     |        √         |  ---  |
+|     v1.8.6     |      √      |      √      |       ---        |     √     |        √         |  ---  |
+|     v1.8.5     |      √      |      √      |        √         |     √     |        √         |   ×   |
+|   v1.8.3-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
+|   v1.8.2-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
+|   v1.8.1-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
+|   v1.8.0-dev   |      √      |     ---     |       ---        |    ---    |       ---        |   ×   |
 |     v1.7.6     |      √      |      √      |       ---        |     √     |        √         |   ×   |
 |     v1.7.5     |      √      |      √      |        √         |     √     |        √         |   ×   |
 |     v1.7.4     |      √      |      √      |        √         |     √     |        √         |   ×   |
@@ -142,12 +148,12 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 |   v1.3.2-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
 |   v1.3.1-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
 |   v1.3.0-dev   |      √      |     ---     |       ---        |     ×     |       ---        |   ×   |
-|     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
-|     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
-|     v1.2.3     |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
-|   v1.2.2-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
-|     v1.1.5     |      √      |      ×      |       ---        |     √     |        √         |   ×   |
-|     v1.1.4     |      √      |      ×      |        √         |     √     |        √         |   ×   |
+| v1.2.5 | √ | √ | --- | --- | --- | --- |
+| v1.2.4 | √ | √ | --- | √ | --- | × |
+| v1.2.3 | √ | √ | √ (experimental) | √ | √ (experimental) | × |
+| v1.2.2-dev | √ | --- | --- | √ | --- | × |
+| v1.1.5 | √ | × | --- | √ | √ | × |
+| v1.1.4 | √ | × | √ | √ | √ | × |
 
 
 
@@ -169,13 +175,16 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 **2023.10.8 [Israeli–Palestinian conflict](https://en.wikipedia.org/wiki/Israeli–Palestinian_conflict)**
 
+**2024.1.12 [missile-strikes in Yemen](https://en.wikipedia.org/wiki/2024_missile_strikes_in_Yemen)**
+
 
 
 ## Logs
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
-| 2023.10.9  | Add support for v1.7.6 on Windows x86/x64, Linux x64/Arm. |
+| 2024.1.28  | Add support all in one time for v1.8.0-dev - v1.8.8 on Windows x86/x64/Arm, Linux x64/Arm |
+| 2023.10.9  | Add support for v1.7.6 on Windows x86/x64, Linux x64/Arm.    |
 | 2023.9.23  | Add support for v1.7.5 on Windows x86/x64/Arm, Linux x64/Arm. |
 | 2023.9.10  | Add support for v1.7.4 on Windows x86/x64/Arm, Linux x64/Arm. |
 | 2023.9.7   | Add support for v1.7.3 on Windows/Linux Arm. Add Traditional Chinese (zh_tw) language Readme support |
