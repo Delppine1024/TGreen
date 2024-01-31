@@ -2,11 +2,11 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 
 
-## 推薦版本符合清單 
+## 推薦版本符合清單
 
 | 大版本     | 推薦下載版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=%E4%B8%8B%E8%BC%89v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=%E4%B8%8B%E8%BC%89v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
+| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.7/total?label=%E4%B8%8B%E8%BC%89v1.8.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=%E4%B8%8B%E8%BC%89v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=%E4%B8%8B%E8%BC%89v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
 | v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.3-dev/total?label=%E4%B8%8B%E8%BC%89v1.8.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.0-dev/total?label=%E4%B8%8B%E8%BC%89v1.8.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.0-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=%E4%B8%8B%E8%BC%89v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BC%89v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
@@ -26,7 +26,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 # TGreen
 
-基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.8.8/v1.8.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
+基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.8.9/v1.8.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
