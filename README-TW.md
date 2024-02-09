@@ -6,7 +6,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 大版本     | 推薦下載版本                                                 |
 | ---------- | ------------------------------------------------------------ |
-| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.8/total?label=%E4%B8%8B%E8%BC%89v1.8.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=%E4%B8%8B%E8%BC%89v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=%E4%B8%8B%E8%BC%89v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
+| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.9/total?label=%E4%B8%8B%E8%BC%89v1.8.9&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.9) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=%E4%B8%8B%E8%BC%89v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
 | v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.3-dev/total?label=%E4%B8%8B%E8%BC%89v1.8.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.0-dev/total?label=%E4%B8%8B%E8%BC%89v1.8.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.0-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=%E4%B8%8B%E8%BC%89v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=%E4%B8%8B%E8%BC%89v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=%E4%B8%8B%E8%BC%89v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
@@ -26,7 +26,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 # TGreen
 
-基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.8.9/v1.8.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
+基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.8.10/v1.8.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -104,6 +104,8 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | Typora 版本 | Windows 64 位元 | Windows 32 位元 | Windows Arm | Linux 64 位元 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|   v1.8.10   |        √        |        √        |     ---     |      ---      |    ---     |   ×   |
+|   v1.8.9    |        √        |        √        |     ---     |       √       |     √      |   ×   |
 |   v1.8.8    |       ---       |       ---       |     ---     |       √       |     √      |  ---  |
 |   v1.8.7    |       ---       |       ---       |     ---     |       √       |     √      |  ---  |
 |   v1.8.6    |        √        |        √        |     ---     |       √       |     √      |  ---  |
@@ -152,10 +154,10 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 | v1.3.2-dev  |        ×        |       ---       |     ---     |       ×       |    ---     |   ×   |
 | v1.3.1-dev  |        ×        |       ---       |     ---     |       ×       |    ---     |   ×   |
 | v1.3.0-dev  |        √        |       ---       |     ---     |       ×       |    ---     |   ×   |
-| v1.2.5 | √ | √ | --- | --- | --- | --- |
-| v1.2.4 | √ | √ | --- | √ | --- | × |
-| v1.2.3 | √ | √ | √ (實驗性) | √ | √ (實驗性) | × |
-| v1.2.2-dev | √ | --- | --- | √ | --- | × |
+|   v1.2.5    |        √        |        √        |     ---     |      ---      |    ---     |  ---  |
+|   v1.2.4    |        √        |        √        |     ---     |       √       |    ---     |   ×   |
+|   v1.2.3    |        √        |        √        | √ (實驗性)  |       √       | √ (實驗性) |   ×   |
+| v1.2.2-dev  |        √        |       ---       |     ---     |       √       |    ---     |   ×   |
 | v1.1.5 | √ | × | --- | √ | √ | × |
 | v1.1.4 | √ | × | √ | √ | √ | × |
 
@@ -187,6 +189,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 時間軸 | 行動                                                                       |
 | --------- |--------------------------------------------------------------------------|
+| 2024.2.9   | 新增了對 Windows 32/64 位元，Linux 64/Arm 系統 1.8.9 版本的支援 |
 | 2024.1.28  | 一次性新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.8.0-dev - 1.8.8 版本的支援 |
 | 2023.10.9  | 新增了對 Windows 32/64 位元，Linux 64/Arm 系統 1.7.6 版本的支援 |
 | 2023.9.23  | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 1.7.5 版本的支援 |

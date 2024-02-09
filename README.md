@@ -6,7 +6,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 | Upgrade    | Recommend Release Version                                    |
 | ---------- | ------------------------------------------------------------ |
-| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.8/total?label=Download%40v1.8.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.6/total?label=Download%40v1.8.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=Download%40v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
+| v1.8.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.9/total?label=Download%40v1.8.9&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.9) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.5/total?label=Download%40v1.8.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.5) |
 | v1.8.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.3-dev/total?label=Download%40v1.8.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.8.0-dev/total?label=Download%40v1.8.0-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.8.0-dev) |
 | v1.7.x     | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.6/total?label=Download%40v1.7.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.3/total?label=Download%40v1.7.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.3) |
 | v1.7.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.7.2-dev/total?label=Download%40v1.7.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.7.2-dev) |
@@ -26,7 +26,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 # TGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.8.9/v1.8.3-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.8.10/v1.8.3-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -100,6 +100,8 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+|    v1.8.10     |      √      |      √      |       ---        |    ---    |       ---        |   ×   |
+|     v1.8.9     |      √      |      √      |       ---        |     √     |        √         |   ×   |
 |     v1.8.8     |     ---     |     ---     |       ---        |     √     |        √         |  ---  |
 |     v1.8.7     |     ---     |     ---     |       ---        |     √     |        √         |  ---  |
 |     v1.8.6     |      √      |      √      |       ---        |     √     |        √         |  ---  |
@@ -148,10 +150,10 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 |   v1.3.2-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
 |   v1.3.1-dev   |      ×      |     ---     |       ---        |     ×     |       ---        |   ×   |
 |   v1.3.0-dev   |      √      |     ---     |       ---        |     ×     |       ---        |   ×   |
-| v1.2.5 | √ | √ | --- | --- | --- | --- |
-| v1.2.4 | √ | √ | --- | √ | --- | × |
-| v1.2.3 | √ | √ | √ (experimental) | √ | √ (experimental) | × |
-| v1.2.2-dev | √ | --- | --- | √ | --- | × |
+|     v1.2.5     |      √      |      √      |       ---        |    ---    |       ---        |  ---  |
+|     v1.2.4     |      √      |      √      |       ---        |     √     |       ---        |   ×   |
+|     v1.2.3     |      √      |      √      | √ (experimental) |     √     | √ (experimental) |   ×   |
+|   v1.2.2-dev   |      √      |     ---     |       ---        |     √     |       ---        |   ×   |
 | v1.1.5 | √ | × | --- | √ | √ | × |
 | v1.1.4 | √ | × | √ | √ | √ | × |
 
@@ -183,6 +185,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2024.2.9   | Add support for v1.8.9 on Windows x86/x64, Linux x64/Arm.    |
 | 2024.1.28  | Add support all in one time for v1.8.0-dev - v1.8.8 on Windows x86/x64/Arm, Linux x64/Arm |
 | 2023.10.9  | Add support for v1.7.6 on Windows x86/x64, Linux x64/Arm.    |
 | 2023.9.23  | Add support for v1.7.5 on Windows x86/x64/Arm, Linux x64/Arm. |
