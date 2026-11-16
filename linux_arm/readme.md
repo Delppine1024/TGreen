@@ -1,0 +1,1 @@
+This is `app.asar` folder for linux_arm.

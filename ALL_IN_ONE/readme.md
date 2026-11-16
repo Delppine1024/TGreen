@@ -1,1 +1,0 @@
-This is `app.asar` folder for all arch.
