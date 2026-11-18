@@ -6,6 +6,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | 大版本     | 推荐下载版本                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v1.10 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.6/total?label=%E4%B8%8B%E8%BD%BD%40v1.10.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.6) |
 | v1.10.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.5-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.10.5-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.5-dev) |
 | v1.9       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.5/total?label=%E4%B8%8B%E8%BD%BD%40v1.9.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.3/total?label=%E4%B8%8B%E8%BD%BD%40v1.9.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.3)     |
 | v1.9.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.2-dev/total?label=%E4%B8%8B%E8%BD%BD%40v1.9.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.2-dev)                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -29,7 +30,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 # TGreen
 
-基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.9.5/v1.10.5-dev) 版本及以上的一些文件。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。View the **English** version of Readme, please click [here](./README.md).
+基于 txxxxxCracker 仓库，并独自研发生成的用于绿化 Txxxxx v1.1 (最新支持 v1.10.6/v1.10.5-dev) 版本及以上的一些文件。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -108,6 +109,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | Typora 版本 | Windows 64位 | Windows 32位 | Windows Arm | Linux 64位 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.10.6 | --- | --- | --- | √ | √ | × |
 | v1.10.5-dev | √ | --- | --- | --- | --- | × |
 | v1.9.5 | √ | √ | --- | --- | --- | --- |
 | v1.9.4 | √ | √ | --- | --- | --- | × |
@@ -198,6 +200,7 @@ $$\textcolor{red}{\text{注意！请不要fork本仓库，如果您选择fork，
 
 | 时间线 | 动态                                                               |
 | --------- |-------------------------------------------------------------------------|
+| 2026.11.17 | 增加了对 Linux 64/Arm 系统 1.10.6 版本的支持 |
 | 2026.11.16 | 增加了对 Windows 64 位系统 1.10.5-dev 版本的支持 |
 | 2024.7.4 | 一次性增加了对 Windows 32/64 位系统 1.9.4 - 1.9.5 版本的支持 |
 | 2024.6.30 | 增加了对 Windows 32/64/Arm，Linux 64/Arm 系统 1.9.3 版本的支持 |

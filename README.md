@@ -6,6 +6,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 | Upgrade    | Recommend Release Version                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v1.10 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.6/total?label=Download%40v1.10.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.6) |
 | v1.10.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.5-dev/total?label=Download%40v1.10.5-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.5-dev) |
 | v1.9       | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.5/total?label=Download%40v1.9.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.3/total?label=Download%40v1.9.3&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.3)                                                                                                                                                                                                          |
 | v1.9.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.9.2-dev/total?label=Download%40v1.9.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.9.2-dev)                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -29,7 +30,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 # TGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.9.5/v1.10.5-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.10.6/v1.10.5-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -103,6 +104,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.10.6 | --- | --- | --- | √ | √ | × |
 | v1.10.5-dev | √ | --- | --- | --- | --- | × |
 | v1.9.5 | √ | √ | --- | --- | --- | --- |
 | v1.9.4 | √ | √ | --- | --- | --- | × |
@@ -193,6 +195,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2026.11.17 | Add support for v1.10.6 on Linux x64/Arm. |
 | 2026.11.16 | Add support for v1.10.5-dev on Windows x64. |
 | 2024.7.4   | Add support all in one for v1.9.4 - v1.9.5 on Windows x86/x64 |
 | 2024.6.30  | Add support for v1.9.3 on Windows x86/x64/Arm, Linux x64/Arm. |
