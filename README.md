@@ -6,7 +6,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 | Upgrade    | Recommend Release Version                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| v1.12 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.1/total?label=Download%40v1.12.1&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.1) |
+| v1.12 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.2/total?label=Download%40v1.12.2&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.2) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.1/total?label=Download%40v1.12.1&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.1) |
 | v1.11 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.7/total?label=Download%40v1.11.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.6/total?label=Download%40v1.11.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.5/total?label=Download%40v1.11.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.4/total?label=Download%40v1.11.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.4) |
 | v1.11.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.3-dev/total?label=Download%40v1.11.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.2-dev/total?label=Download%40v1.11.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.2-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.1-dev/total?label=Download%40v1.11.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.1-dev) |
 | v1.10 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.8/total?label=Download%40v1.10.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.7/total?label=Download%40v1.10.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.6/total?label=Download%40v1.10.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.6) |
@@ -33,7 +33,7 @@ $$\textcolor{red}{\text{Attention! Please do not fork. If you insist to fork,  y
 
 # TGreen
 
-Some crack files work well on Txxxxx v1.1 (The latest support v1.12.1/v1.11.3-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
+Some crack files work well on Txxxxx v1.1 (The latest support v1.12.2/v1.11.3-dev), Based on txxxxxCracker. 查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。查看 **繁體中文** 文档請點擊 [這裡](./README-TW.md) 。
 
 
 
@@ -107,6 +107,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Typora Version | Windows X64 | Windows X86 |   Windows Arm    | Linux X64 |    Linux Arm     | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.12.2 | √ | √ | √ | √ | √ | × |
 | v1.12.1 | √ | √ | √ | √ | √ | × |
 | v1.11.7 | √ | √ | √ | √ | √ | × |
 | v1.11.6 | √ | √ | √ | --- | --- | × |
@@ -208,6 +209,7 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER.
 
 | Timeline   | Actions                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2026.11.21 | Add support for v1.12.2 on Windows x64/x86/Arm, Linux x64/Arm. |
 | 2026.11.21 | Add support for v1.12.1 on Windows x64/x86/Arm, Linux x64/Arm. |
 | 2026.11.21 | Add support for v1.11.7 on Windows x64/x86/Arm, Linux x64/Arm. |
 | 2026.11.21 | Add support for v1.11.6 on Windows x64/x86/Arm. |

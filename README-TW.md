@@ -6,7 +6,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 大版本     | 推薦下載版本                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| v1.12 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.1/total?label=%E4%B8%8B%E8%BC%89v1.12.1&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.1) |
+| v1.12 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.2/total?label=%E4%B8%8B%E8%BC%89v1.12.2&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.2) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.12.1/total?label=%E4%B8%8B%E8%BC%89v1.12.1&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.12.1) |
 | v1.11 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.7/total?label=%E4%B8%8B%E8%BC%89v1.11.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.6/total?label=%E4%B8%8B%E8%BC%89v1.11.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.6) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.5/total?label=%E4%B8%8B%E8%BC%89v1.11.5&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.5) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.4/total?label=%E4%B8%8B%E8%BC%89v1.11.4&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.4) |
 | v1.11.x-dev | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.3-dev/total?label=%E4%B8%8B%E8%BC%89v1.11.3-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.3-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.2-dev/total?label=%E4%B8%8B%E8%BC%89v1.11.2-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.2-dev) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.11.1-dev/total?label=%E4%B8%8B%E8%BC%89v1.11.1-dev&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.11.1-dev) |
 | v1.10 | [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.8/total?label=%E4%B8%8B%E8%BC%89v1.10.8&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.8) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.7/total?label=%E4%B8%8B%E8%BC%89v1.10.7&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.7) [![GitHub release (by tag)](https://img.shields.io/github/downloads/Delppine1024/TGreen/v1.10.6/total?label=%E4%B8%8B%E8%BC%89v1.10.6&style=flat)](https://github.com/Delppine1024/TGreen/releases/tag/v1.10.6) |
@@ -33,7 +33,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 # TGreen
 
-基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.12.1/v1.11.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
+基於 txxxxxCracker 倉庫，並獨自研發生成的用於綠化 Txxxxx v1.1 （最新支援 v1.12.2/v1.11.3-dev） 版本及以上的一些檔案。查看 **简体中文** 文档请戳 [这里](./README-CN.md) 。View the **English** version of Readme, please click [here](./README.md).
 
 
 
@@ -111,6 +111,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | Typora 版本 | Windows 64 位元 | Windows 32 位元 | Windows Arm | Linux 64 位元 | Linux Arm  | MacOS |
 | :------------: | :---------: | :---------: | :--------------: | :-------: | :--------------: | :---: |
+| v1.12.2 | √ | √ | √ | √ | √ | × |
 | v1.12.1 | √ | √ | √ | √ | √ | × |
 | v1.11.7 | √ | √ | √ | √ | √ | × |
 | v1.11.6 | √ | √ | √ | --- | --- | × |
@@ -212,6 +213,7 @@ $$\textcolor{red}{\text{注意！請不要 fork 本倉庫，如果您選擇fork�
 
 | 時間軸 | 行動                                                                       |
 | --------- |--------------------------------------------------------------------------|
+| 2026.11.21 | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 v1.12.2 版本的支援 |
 | 2026.11.21 | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 v1.12.1 版本的支援 |
 | 2026.11.21 | 新增了對 Windows 32/64/Arm，Linux 64/Arm 系統 v1.11.7 版本的支援 |
 | 2026.11.21 | 新增了對 Windows 32/64/Arm 系統 v1.11.6 版本的支援 |
