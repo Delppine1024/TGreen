@@ -1,11 +1,11 @@
 {
     "name": "Typora",
-    "version": "1.12.3",
+    "version": "1.12.4",
     "main": "launch.dist.js",
     "family": "abnerworks",
     "private": true,
     "author": "typora.io",
     "homepage": "https://typora.io",
     "concat": "hi@typora.io",
-    "releaseId": "65ddb765"
+    "releaseId": "36f3d131"
 }
